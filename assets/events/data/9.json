@@ -1,0 +1,38 @@
+{
+    "root":[
+        {"type":"title","text":"NET - HUNT"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"A Picture conveys multiple things which words can neither express nor explain. Depictions sometimes can be deceptive too. Are you someone with eagle eyes, critiquing every critical detail? If yes is your answer; we throw you a challenge. Not a challenge which makes you think, but one that twists every strand of neuron in your head. Are you ready? Here you go..!!! Participants are supposed to guess the computer related technical words from the pictures presented."},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION"},
+        {"type":"simple","text":"Solving each puzzle (depicting apt words) is considered as one-level up. The difficulty scale gets harder as the level increases."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "<b>Teams violating the rules listed below will be subjected to disqualification.</b>",
+            "Answers are supposed to be entered in the provided textbox.",
+            "Event starts online at 13/02/2020, 12:00 AM till 19/02/2020 5:00 PM.",
+            "Clues will be provided after certain tries / hits. Scores will be reduced as per the hit-count for each puzzle.",
+            "For every puzzle,<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;First clue – After 75 hits<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Second clue – After 150 hits",
+            "In case of a tie, the results will be declared based on the minimum number of tries.",
+            "Organisers have all the rights to disqualify any team without any prior notice, if any malpractice encountered.",
+            "Teams / Participants with invalid credentials / details will also be disqualified by the organisers without prior notice.",
+            "Winners of the event will be announced only after all sort of verification by the events team."
+        ]},
+        {"type":"subtitle","text":"GAME RULES"},
+        {"type":"list","text":[
+            "1.  Each department will be provided with the maximum of two accounts with individual participation.",
+            "2.  Participants can get support from friends for solving the puzzle.",
+            "3.  In case of any malpractice identified in the event log, the team will be disqualified from pariticipation.",
+            "4.  Depicted words should only contain alpha-numeric words, in other words, the answers should not contain any spaces (or) special characters.<BR>&nbsp;&nbsp;&nbsp;&nbsp;E.g “Net-Hunt” must be entered as “nethunt”, 1 must be entered as “one”.",
+            "5.  Judges decision shall be treated as the final and binding on all."
+        ]}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"1"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Gowtham Balaji B","phone":"(+91) 97889 48819"},
+        {"name":"Lisasri P","phone":"(+91) 80567 30275"}
+    ]
+    
+}

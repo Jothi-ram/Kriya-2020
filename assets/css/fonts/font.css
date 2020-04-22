@@ -1,0 +1,115 @@
+@font-face {
+    font-family: ralewayR;
+    src: url('raleway/ralewayRegular.ttf');
+}
+*[ralewayR]{font-family: ralewayR}
+@font-face {
+    font-family: ralewayB;
+    src: url('raleway/ralewayBold.ttf');
+}
+*[ralewayB]{font-family: ralewayB}
+@font-face {
+    font-family: nexaL;
+    src: url('NexaLight.otf');
+}
+*[nexaL]{font-family: nexaL}
+@font-face {
+    font-family: nexaB;
+    src: url('NexaBold.otf');
+}
+*[quicksand]{font-family: quicksand}
+@font-face {
+    font-family: quicksand;
+    src: url('quicksand.otf');
+}
+*[nexaB]{font-family: nexaB}
+@font-face {
+    font-family: ralewayL;
+    src: url('raleway/Raleway-Light.ttf');
+}
+*[ralewayL]{font-family: ralewayL}
+@font-face {
+    font-family: ralewayEL;
+    src: url('raleway/Raleway-ExtraLight.ttf');
+}
+*[ralewayEL]{font-family: ralewayEL}
+
+@font-face {
+    font-family: ralewayT;
+    src: url('raleway/Raleway-Thin.ttf');
+}
+*[ralewayT]{font-family: ralewayT}
+@font-face {
+    font-family: josefinR;
+    src: url('josefin/JosefinSans-Regular.ttf');
+}
+@font-face {
+    font-family: oswald;
+    src: url('Oswald-Regular.ttf');
+}
+@font-face {
+    font-family: rubikR;
+    src: url('Rubik-Regular.ttf');
+}
+@font-face {
+    font-family: rubikL;
+    src: url('Rubik-Light.ttf');
+}
+@font-face {
+    font-family: rubikM;
+    src: url('Rubik-Medium.ttf');
+}
+
+@font-face {
+    font-family: cardoR;
+    src: url('Cardo-Regular.ttf');
+}
+
+*[josefinR]{font-family: josefinR}
+
+@font-face {
+    font-family: josefinL;
+    src: url('josefin/JosefinSans-Light.ttf');
+}
+*[josefinL]{font-family: josefinL}
+@font-face {
+    font-family: josefinT;
+    src: url('josefin/JosefinSans-Thin.ttf');
+}
+*[josefinT]{font-family: josefinT}
+
+@font-face {
+    font-family: josefinB;
+    src: url('josefin/JosefinSans-Bold.ttf');
+}
+*[josefinB]{font-family: josefinB}
+
+@font-face {
+    font-family: kaushanScript;
+    src: url('kaushanScript.otf');
+}
+*[kaushanScript]{font-family: kaushanScript}
+
+@font-face {
+    font-family: cassandra;
+    src: url('cassandra.ttf');
+}
+*[cassandra]{font-family: cassandra}
+
+@font-face {
+    font-family: caranda;
+    src: url('caranda.ttf');
+}
+*[caranda]{font-family: caranda}
+
+@font-face {
+    font-family: valentine;
+    src: url('valentine.ttf');
+}
+*[valentine]{font-family: valentine}
+
+@font-face {
+    font-family: madelyn;
+    src: url('madelyn.otf');
+}
+*[madelyn]{font-family: madelyn}

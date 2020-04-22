@@ -1,0 +1,42 @@
+
+{
+    "root":[
+        {"type":"title","text":"EXPRESSO"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Presentation is a method by which one can convey their opinions on a mass scale. We provide you a platform to explore your perspective thinking in the fields of textile and fashion."},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Industry 4.0 & its influences in apparel industry",
+            "Fashion forecasting & its latest trends",
+            "Sustainability in textile and apparel industry",
+            "Denim- The future",
+            "Fashion repeats itself"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Abstract must be send to <a href='mailto:expressopsgkriya@gmail.com'>expressopsgkriya@gmail.com</a>  within 13th February, 2020 along with the participants’ detail which should not exceed 150 words.",
+            "Intimation of abstract selection will be done on (or) before 15th February, 2020.",
+            "Pre approved lists of participants will only be allowed.",
+            "Decision of the judges will be the final and changes will not be done further.",
+            "The presentation should contain a maximum of 15 slides only.",
+            "The time allowed per team will be maximum of 10 minutes (7 minutes for presentation & 3 minutes for queries)"
+        ]},
+    
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 12:30-PM"},
+        {"type":"simple","text":"K 410 (SEMINAR HALL)"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"AjaiBalaji. S. G","phone":"(+91) 91593 98188"},
+        {"name":"Raja Balasaraswathi. S","phone":" (+91) 88833 87915"}
+    ]
+}

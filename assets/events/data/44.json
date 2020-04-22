@@ -1,0 +1,54 @@
+{
+    "root":[
+        {"type":"title","text":"TECH TRIX"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Tech trix is initiated with an aim to serve a perfect launch pad for technocrats to showcase their technical skills. Dive into this extravaganza and experience a complete package of fun, thrill and excellent."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A minimum knowledge in every fields of textiles is a prerequisite",
+            "Use of any electronic gadget is strictly prohibited",
+            "Materials that are required will be provided",
+            "The decision of the judges shall be treated as final"
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 5 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"list","text":[
+            "It is a preliminary round. Mixture of choose the best answer and fill in the blanks will be given. The participants with higher score will be moving to the next round.",
+            "Time: 45 minutes"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"list","text":[
+            "Logo identification and connections and  Technical Quiz . Blast the balloon and identify the logo present in it. Connect the displayed images and find the answer.",
+            "Time: 45 minutes"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"list","text":[
+            "Identify the fabric specifications. Choose an inverted cup and find the specifications for the fabric present in it.",
+            "Time: 45 minutes"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-4"},
+        {"type":"list","text":[
+            "Scavenger Hunt. For the given questions, clues will be hidden in different places and all the clues must be collected to end the game.",
+            "Time: 45 minutes"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-5"},
+        {"type":"list","text":[
+            "Identify the working mechanism of a process or machine. Animation will be projected and the participants need to find it out.",
+            "Time: 45 minutes"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 403"} 
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Ragupathi Raja","phone":"(+91) 88259 78508"},
+        {"name":"Tamilvani","phone":"(+91) 70108 75350"}
+    ]
+}

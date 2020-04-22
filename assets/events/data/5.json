@@ -1,0 +1,84 @@
+{
+    "root":[
+        {"type":"title","text":"LEAGUE OF DRONES"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Build your own drone that travel from source point (starting point) to destination point (ending point) crossing various hurdles along the path of journey of laps. In this drone championship event, do you want to compete with others and become the best drone pilot champion. This is the place where you can show off your piloting skills. It is the game where the participants control drone’s stability. In this event there will be totally three rounds. Each round consists of different points level. Based on the performance marks and lap timing the points will be awarded to the team. Finally, the winning team will be selected based on the point what they scored."},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":"The event consists of three rounds."},
+        {"type":"simple","text":""},
+        {"type":"subsubtitle","text":"ROUND 1 (RACE OF STABILITY):"},
+        {"type":"list","text":[
+            "There will be a track of different raddles.",
+            "The participant must complete one lap.",
+            "The points will be allocated to all the hurdles when they pass.",
+            "The total points scored by the team will be selected to next round."
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2 (TIME TO PROVE BEST PILOT):"},
+        {"type":"list","text":[
+            "In this round, each team should be complete the track (one lap).",
+            "The lap timing will be noted.",
+            "There will be negative points (time) if the quad hits the raddles.",
+            "The pilot can travel with the drone. (LOS)"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 3 (CHANCE TO WIN THE RACE):"},
+        {"type":"list","text":[
+            "In this round top 4 to 5 teams will be selected.",
+            "In this round they should complete the lap.",
+            "No negative points will be awarded.",
+            "But the pilot should stand at one place and drive the drone, 1 of the team mate can move with drone to navigate."
+        ]},
+        {"type":"subtitle","text":"GENERAL RULES"},
+        {"type":"list","text":[
+            "Drone frame dimension should be in range of (210mm – 350mm).",
+            "Each Team can have maximum of 3 members.",
+            "Each participated team should bring their own drone and fly.",
+            "Drone pilot can not be changed once they started.",
+            "Drone should be at good condition.",
+            "Participants should bring required spare parts required for the event.",
+            "Drones cannot be exchanged with another team.",
+            "One drone cannot be driven with more than 1 pilot.",
+            "Quad should not fly above 15 ft high.",
+            "Event judges reserve all the rights to disqualify in case of any misbehavior.",
+            "Event judges rules and are final.",
+            "No extra time will be allocated for any reasons, after every round there will be 2 hours break utilize those time for charging.",
+            "Judges result is the final."
+        ]},
+        {"type":"subtitle","text":"ROUND RULES"},
+        {"type":"simple","text":"<b>ROUND ONE:</b>"},
+        {"type":"list","text":[
+            "The pilot can travel along with the drone. los",
+            "The points for each hurdle will be awarded if the drone passed through hurdles.",
+            "No negative points will be given when drone hit the hurdles.",
+            "Battery cannot be replaced once the round got started.",
+            "The pilot can skip but the points for the particular hurdles will not be given."
+        ]},
+        {"type":"simple","text":"<b>ROUND TWO:</b>"},
+        {"type":"list","text":[
+            "The pilot can travel along with the drone.",
+            "The team should complete the lap through the hurdles.",
+            "Negative points will be awarded, if the drone hits the hurdles. But lap time will be passed for replacing or repairing the drone. (limit is 2 min).",
+            "Similarly, the points will be awarded as per the hurdles passed.",
+            "The timing and the points will be noted.",
+            "Similarly, battery cannot be replaced once the race started."
+        ]},
+        {"type":"simple","text":"<b>ROUND THREE:</b>"},
+        {"type":"list","text":[
+            "The pilot should stand at one place and fly the drone.",
+            "The team should complete the lap through the hurdles.",
+            "No negative points for hitting. No time passing once started, stops at lap end.",
+            "If the team skips the hurdles. The extra time for each hurdle will be added with the total lap time."
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"N BLOCK GROUND"}
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"3"}
+    ],
+    "contact":[
+        {"name":"POORNESH .V","phone":"(+91) 97899 88747"},
+        {"name":"THIRUMALAESH .A","phone":"(+91) 88700 57433"}
+    ]
+}

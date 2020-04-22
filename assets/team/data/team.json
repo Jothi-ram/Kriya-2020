@@ -1,0 +1,27 @@
+{
+    "chair":{"n":"Jawahar","d":"Chairperson","p":"9524833221"},
+    "cochair":{"n":"Premnandhakumar","d":"Co-Chairperson","p":"8675040156"},
+    "sec":[
+        {"n":"Santhosh","d":"Secretary","p":"7904081957"},
+        {"n":"Aishwarya","d":"Secretary","p":""},
+        {"n":"Priyanka","d":"Secretary","p":""}
+    ],
+    "pr":{"n":"Ajith Kumar","d":"Head - Public Relation","p":"8870979886"},
+    "sp":{"n":"Harshaan","d":"Head - Sponsors","p":"8903877165"},
+    "mar":{"n":"Raj Mohan","d":"Head - Marketing & Publicity","p":"9566881590"},
+    "proc":{"n":"Naveen","d":"Head - Procurement","p":"8903864380"},
+    "eve":[
+        {"n":"Sivabalan","d":"Head - Events","p":"9629340158"},
+        {"n":"Suja","d":"Head - Events","p":""}
+    ],
+    "work":{"n":"Prraveen Sundar","d":"Head - Workshops","p":"7010312801"},
+    "gl":{"n":"Thilak Vikram","d":"Head - Guest Lecture","p":"9566597440"},
+    "eu":{"n":"Sanjay Kumar","d":"Head - Eureka","p":"7708449821"},
+    "web":{"n":"David","d":"Head - Website","p":"8428862035"},
+    "reg":{"n":"Vignesh","d":"Head - Registration","p":"7358942819"},
+    "amb":{"n":"Karthikeyan","d":"Head - Ambience","p":"9629181820"},
+    "hos":{"n":"Satheesh","d":"Head - Hospitality","p":"9786405167"},
+    "root":{"n":"Palaniappan","d":"Head - Root Kriya","p":"9003421805"},
+    "des":{"n":"Arivukkarasu","d":"Head - Design","p":"9994687984"},
+    "mm":{"n":"Manikandan","d":"Head - Multimedia","p":"9944850132"}
+}

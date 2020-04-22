@@ -1,0 +1,45 @@
+
+{
+    "root":[
+        {"type":"title","text":"BUILDING, PLANNING AND ANALYSIS"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"The design of tall buildings essentially involves conceptual design, approximate analysis, preliminary design and optimization to safely carry different loads acting on the structure.As part of this training program, you will also learn about Construction Project Management (CPM) which exposes you to the concepts & methodologies behind scheduling, planning, monitoring, controlling a construction project. Apart from knowing the theoretical concepts, you will also learn to manage a construction project by working on an industrial grade software."},
+        {"type":"subtitle","text":"DATE & TIME"},
+        {"type":"list","text":[
+            "<b>8:45 AM – 9:00 AM </b> - Students assemble at K-206.",
+            "<b>9:00 AM – 10:30 AM</b> - Professional Architectural Careers, Office Practice, and Opportunities",
+            "<b>10:30 AM – 12:00 PM</b> - Concept of Analysis & Planning.",
+            
+            "<b>12:00 PM – 01:30 PM</b> - Lunch Break.",
+             "<b>1:30 PM – 4:30 PM</b> - Analysis & Execution with Software",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually"
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 700/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 4:30-PM"},
+        {"type":"simple","text":"K-206 (CIVIL SEMINAR HALL)"}
+    ],
+        "contact":[
+        {"name":"A.B.LOGESHWAR","phone":"(+91) 70929 71023"},
+        {"name":"T.GARISHMA","phone":" (+91) 94885 76250"}
+    ]
+}

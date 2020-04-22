@@ -1,0 +1,50 @@
+
+{
+    "root":[
+        {"type":"title","text":"Texaholic"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"list","text":[
+            "It is an opportunity to showcase your ideas on an unique and massive platform in the form of well integrated and intriguing presentation.",
+            "It strives to explore inquisitiveness of young minds by giving their incredulous ideas.",
+            "Send your abstract to <a href='mailto:texaholicpsgkriya2020@gmail.com'>texaholicpsgkriya2020@gmail.com</a> on or before 13.02.2020",
+            "The short listed candidates would be informed personally through email 15.02.2020"
+        ]},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "3D Braided Fabrics",
+            "Warp Knitted Fabrics for Technical Textiles",
+            "Fibres for the Next Millennium",
+            "Composite Non-Wovens",
+            "Acoustic Textiles",
+            "Energy Saving Techniques in Textile Production"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A Team should consist of maximum of two members.",
+            "Abstracts should contain maximum of one page.",
+            "Only participants who qualify in the preliminary abstract submission round shall be eligible for the final presentation. ",
+            "Presentation should not exceed 7mins.",
+            "Qualified candidates are requested to bring along with them the poster.",
+            "Poster size: 3*4 feet.",
+            "The decision of the judges and event head shall be treated as final.",
+            "Participants are required to bring the bank account details (Bank name, Branch, Account holder name, Account number, IFSC code) for crediting the prize amount."
+        ]},
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"1:30-PM to 4-PM"},
+        {"type":"simple","text":"TEXTILE DEPARTMENT"}
+
+      
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"A.Deepak Agni Prakash","phone":"(+91) 75581 87051"},
+        {"name":"R.Aayee Muthu Varshini","phone":" (+91) 8189803963"}
+    ]
+}

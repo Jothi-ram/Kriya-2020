@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"TECHTONIC"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This event tests the knowledge of the participants about renewable resources. This also Gets out the speaker within and aids in presenting a given topic in a best possible way within the allocated period. The coordination among the team members, understanding the topic, sequential description can be seen during the presentation."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Mobile phones are not allowed. ",
+            "Discussing with other teams not allowed.",
+            "Judges descision are considered as final"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"10-AM to 4-PM"},
+        {"type":"simple","text":"Y 402"} ,
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"MCQ based on renewable resources. This round will involve basic and tricky questions which would test the participants knowledge on renewable resources and the current status of our Earth and its resources. Some questions will be straight forward while others would require logical thinking."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"Each team in this round has to pick one topic from the bowl that has some of the recent renewable resources topics. A fixed time is allocated for the participants within the time the team has to prepare and come out with the best presentation that is possible. The team with a overall explanation of the selected topic is rewarded. As the time allocated for the preparation is limited the participants can make use of the internet for a better description of the topics chosen."},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"This event would allow the participants to show their ideas for a better future. The participants would be provided with chart paper and sketch pens. Within the allotted time they would have to describe their thoughts by drawing it."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"NAVEEN BABU K J","phone":"(+91) 91590 19296"},
+        {"name":"JISHNU R","phone":"(+91) 94421 59753"}
+    ]
+}

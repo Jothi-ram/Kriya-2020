@@ -1,0 +1,50 @@
+{
+    "root":[
+        {"type":"title","text":"TECHNOZARRE"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"“Because in your perception, every detail matters. Think like a connoisseur, befit like an artiste.”<BR><BR>Technozarre, the event that makes you commemorate your ideology and perception about the emerging technical issues. This technological summit anticipates an intensive visionary expatiate from the young minds. This event encourages the teams to express their voices in a single-tone, thereby the mutual esteem for the thoughts of the mates will be enriched."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A team of 2 people is encouraged to enroll in the event.",
+            "Event consists of 2 rounds, for both rounds on-spot topics (generic technical topics) will be given.",
+            "Teams will be given brief preparation time to address their perception.",
+            "Teams are not encouraged to use their mobile phones for their preparation.",
+            "Once the mark is allocated by the judges, the marks will not be changed.",
+            "For final round, top 6 teams from first round will be selected.",
+            "In-case of tie in final round, scores of first round will be considered."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"list","text":[
+            "A common technical puzzle will be displayed on the screen, so that the respective team has to find the puzzle.",
+            "The first team which identifies the technical issue on the puzzle will be given 30 secs to prepare and then the mates have to equally express their perception within 2minutes max. effectively.",
+            "Based on the effectiveness in their communication, interpretation, perception and team work (equal space) the teams will be evaluated.",
+            "The teams with more points will be selected for final round.",
+            "Expected duration - 2:15 hrs."
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"list","text":[
+            "The top 6 teams will be selected from first round will be taken for final round.",
+            "The teams will be given a common generic technical topic on-spot with the preparation time of 10minutes max. and the teams have to express their perception within 10minutes max. effectively.",
+            "They are required to express their perception about that topic in the form of an Executive Summary, a one-page technical writeup.",
+            "During the time of scrutineering, the teams will be allowed to explain about their executive summary in few words. ",
+            "Based on their distinctive view on the topic they will be awarded the scores.",
+            "The summit will have to be taken place in a professional way with uniqueness.",
+            "Expected duration – 1:15 hrs."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 1-PM"},
+        {"type":"simple","text":"F 202"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Pradeepkumar PS","phone":"(+91) 89036 32715"},
+        {"name":"Dhanush RR","phone":"(+91) 94871 43679"}
+    ]
+}

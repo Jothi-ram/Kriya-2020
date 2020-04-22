@@ -1,0 +1,71 @@
+{
+    "root":[
+        {"type":"title","text":"VANARASENA (A Rescue Mission)"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<b>“The new science will be a manifestation of ancient technologies. It will come in sudden, humans will experience technological shock.” - Toba Beta</b><BR>Had you ever experienced the theme of Ramayana in a pick and place bot event? Yeah the new technologies have emerged from the ancient ethics. This is a pick and place bot event with the ever wondered Ramayana theme. There will be two rounds. The first round is timing based round where the bot has to do normal pick and place operations. Second round is a racing round where the bot will have to compete each other to place the blocks at correct position to complete their half built bridge."},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":""},
+        {"type":"simple","text":""},
+        {"type":"subsubtitle","text":"ROUND 1 (SUNDARA KANDA):"},
+        {"type":"simple","text":"<b><i>“Sometimes the hurdles aren't really hurdles at all. They're welcome challenges, tests.”-   Paul Walker</b></i>"},
+        {"type":"list","text":[
+            "In this round the track is compared to the forest and the bot is compared to hanuman.",
+            "There will be 3 objects (cubes of 13cm) at different positions in the path of the track(compared to path of forest).",
+            "The bot will have to pick up the objects one by one and drop it at specified place at the end of the track.",
+            "There will be small hurdles on the path of the track(forest).",
+            "The bot is expected to finish the track (forest with hurdles) and place the 3 objects in the specified position and direction.",
+            "The judgement will be based on the time of completion and perfection of positioning of objects.",
+            "The bots which gets qualified in this round will go to the next round."
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2 (YUDDHA KANDA):"},
+        {"type":"simple","text":"<b><i>“It is not the beauty of a building you should look at; its the construction of the foundation that will stand the test of time.”–David Allan Coe</b></i>"},
+        {"type":"list","text":[
+            "The real theme of Ramayana comes into play in this round.",
+            "In this round, the bot(Hanuman) will have to place the missing blocks on the half constructed bridge using pick and place operations.",
+            "This is based on the theme of construction of ‘Ramar Palam’.",
+            "This round is also a racing round where there will be 2 such bridges and 2 bots can race over each other to complete it’s own bridge.",
+            "The timing and perfection of placing the blocks will be considered.",
+            "Once the bridge is completed, the bot will have to make a test run over the bridge.",
+            "While doing so, the bot(considered as Lord Hanuman) will have to carry a box – object ‘A’ (considered as Lord Raman) from one side(considered as Danushkodi) of the bridge to another side(considered as Srilanka).",
+            "On reaching the other side, the bot has to take up the object ‘B’ (considered as Lord Sita) and put it in box ‘A’ and come back to starting location.",
+            "This is of the theme of Lord Raman’s construction of ‘Ramar Palam’ and rescuing sita with the help of hanuman."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"simple","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "The bot size should not exceed 30cm X 30cm X 30cm.",
+            "The voltage difference between any two points in bot should not be greater than 13.2 Volts.",
+            "The battery should be placed on the bot."
+        ]},
+        {"type":"simple","text":"GAME RULES"},
+        {"type":"list","text":[
+            "Each team can have maximum of 3 members and minimum of 1 member.",
+            "Timer will start when the robot starts from the starting point.",
+            "Any bot that causes damage to the arena will be disqualified.",
+            "Judges can disqualify a team that involve in any kind of malpractice.",
+            "The decision of the judges will be held final.",
+            "Usage of Pre-build kits such as Tetrix / Lego are prohibited.",
+            "The players are directed to bring their required equipment for adjusting, repairing etc of the bot (NO TOOLS WILL BE PROVIDED)."
+        ]},
+        {"type":"subtitle","text":"ARENA SPECIFICATIONS"},
+        {"type":"list","text":[
+            "(300*300)cm is the bounded arena.",
+            "Objects are Cubes of dimension 10 cm - 13 cm.",
+            "The bridge is of height 10 inch with inclination of 30 degree.",
+            "The cubes are the building blocks which has to be inserted into the cube-shaped hollow cavity available on the bridge."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 401"}
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"3"}
+    ],
+    "contact":[
+        {"name":"VIDHYA KAMALA LAKSHMI S","phone":"(+91) 90922 99895"},
+        {"name":"RAKESH BALAJI V","phone":"(+91) 88382 85372"}
+    ]
+}

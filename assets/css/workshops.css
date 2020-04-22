@@ -1,0 +1,27 @@
+table th{
+    border-bottom:1px solid #ff8c1c;
+}
+th:nth-child(1),td:nth-child(1){
+    border-right:1px solid #ff8c1c;
+}
+
+.panel-title{
+    color:rgb(255, 149, 62);
+}
+.panel-heading{
+    background: black!important;
+}
+.panel-body{
+    color:white;
+    background: rgb(0, 0, 2);
+}
+
+tr:nth-child(2),tr:nth-child(4),tr:nth-child(6),tr:nth-child(8){
+    background: rgb(20, 20, 20);
+}
+
+table td,table th{
+    color:white;
+    padding-top:10px;
+    padding-bottom:10px;
+}

@@ -1,0 +1,45 @@
+
+{
+    "root":[
+        {"type":"title","text":"SENSOR INTERFACE AND INTEGRATION"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This workshop improves the student’s knowledge and gives basic information about sensors. It makes us informed about the sending and receiving signals by sensors. LabView software will be taught and construction and functioning of a Lego robot will be taught."},
+        {"type":"simple","text":"After a really interactive session about sensors and its types and working, there will be a practical session in which different experiments will performed and taught to the students for improving their knowledge on sensors and their interface."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>9:00 AM – 10:30AM</b> - Theory session – I  ( sensors functions and its applications)",
+            "<b>10:30 AM – 10:45 AM</b> - Break",
+            "<b>10:45 AM – 12:15 PM</b> - Theory session – II (LAB-VIEW Software)",
+            "<b>12:15 PM – 1:15 PM</b> - Lunch Break",
+            "<b>1:15 PM – 4:00 PM</b> - Practical session<BR><BR>",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually"
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 800/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G-309 & SENSORICS LAB"}
+    ],
+        "contact":[
+        {"name":"L. Leo Michael Kewin","phone":"(+91) 90036 65663"},
+        {"name":"B. Piraveen Kumar","phone":" (+91) 99521 71719"}
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "root":[
+        {"type":"title","text":"Fetch Decode Execute"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"A coding event which analyses the coding, problem solving skills and creativity of the students. This event comprises of two rounds. This event will judge the teams based on their time managing skills, critical thinking, practicality, tangibility."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Usage of mobile phones is strictly prohibited (only for round 1).",
+            "Usage of any materials or books or internet is not allowed (only for round 1).",
+            "Team with more than 2 participants is not encouraged.",
+            "Teams must complete the questions within the given time.",
+            "No extra time will be given.",
+            "Judges decision will be final"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 2:30-PM"},
+        {"type":"simple","text":"GRD LAB ECE"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"Basic multiple choice questions from C programming, Data structures and operating systems to test the basic knowledge of the participants in the field of computer science."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"In this round a set of snippets will be given, participants will have to debug and find the answers. Each answer corresponds to an English alphabet, on finding all the answers the participants will have a set of letters, which correspond to a particular data structure. The participants should find the underlying  data structure with the available alphabets. On finding the data structure, the participants will be provided with a question related to that data structure and they are expected to solve it within the given time."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"SWATHI S.","phone":"(+91) 77083 82490"},
+        {"name":"SAMUEL PRIYADARSHAN S","phone":"(+91) 96004 46399"}
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "root":[
+        {"type":"title","text":"TITAN ROVER"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Do you believe in dream? Or in some magic? We all love to explore space. Isn’t it? Are you thinking of reaching the space, right? Explore the Titan’s land surface and analyse the magic in it. You don’t need to go to space. Just be curious… Here it is… Roverz, where curiosity meets creativity."},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"simple","text":"The Rover event consists of two rounds as follows:"},
+        {"type":"subsubtitle","text":"ROUND 1:"},
+        {"type":"list","text":[
+            "In the beginning of this round there will be an inspection on the rovers’ features and its elements.",
+            "In this round the Rovers must move through a particular distance, i.e., from start point to end point.",
+            "The rovers which moves without any difficulties will be selected for the next round"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2:"},
+        {"type":"list","text":[
+            "In this round the Rover has to move through the Titan Surface Model in which rocky-mountains, muds & water bodies are present.",
+            "The Rover must capture images while they move through the Model.",
+            "The rover shouldn’t hit on obstacles and should move around the obstacle.",
+            "The rover may or may not be tested under rainy atmosphere",
+            "The rover which survives all the obstacles and tests with shortest time will be announced as winners."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"simple","text":"The rover must be designed to operate in the moon of Saturn-Titan. The arena for the rover will also include rocky surfaces and water. Hence consider the following points:"},
+        {"type":"list","text":[
+            "The rover must be equipped with image capturing and must be amphibious (able to travel both in land and water).",
+            "It must avoid obstacles",
+            "Should collect the sand particles for minerals’ analysis, so it must handle additional weight.",
+            "It’s speed must not be greater than 5km/hr.",
+            "It must not be damaged during the climate changes like rain (optional)",
+            
+            "Judges can disqualify a team that involve in any kind of malpractice.",
+            "NOTE:The design model of the surface of titan will be given after the registration. 2 per team is allowed.",
+            "NOTE:The rover and the code will be inspected before the start of the event to prevent any forgery during the event."
+
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 2-PM"},
+        {"type":"simple","text":"N BLOCK GROUND"} 
+    
+           ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"2"}
+    ],
+    "contact":[
+        {"name":"ABISAIKE.S","phone":"(+91) 90038 73994"},
+        {"name":"ANDREW PRASAATH.AA","phone":"(+91) 63812 27988"}
+    ]
+}

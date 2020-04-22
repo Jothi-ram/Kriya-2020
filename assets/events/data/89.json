@@ -1,0 +1,38 @@
+{
+    "root":[
+        {"type":"title","text":"IMPERATOR"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Wondered what it would be like to be a manager of a television channel? Put yourself in the shoes of a manager to craft your tv channel right from the genre and pick your recruits, frame up your budget and increase your TRP with your management skills along with soft skills, are you capable of defeating your competitors? "},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Teams violating the rules listed below will be disqualified. ",
+            "Any team that is not ready at the specified time will be scratched from the competition automatically.",
+            "The content of TV programs created must not be vulgar.",
+            "The TV programs or acting must not hurt any individual/organisation.",
+            "If any of the rules are violated the team will be eliminated",
+            "Mobile phones, laptops and usage of internet is allowed.",
+            "Judges decision shall be treated as the final and binding on all."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"list","text":[
+            "“Carpe Diem”. The participants are given with a questioner and are asked to fill it. From the answers 6 participants are selected as managers for 6 different TV channels. The managers then have to decide the genre of their television channel. The rest of the participants are given a simple task that they have to enact. After this is done, the managers have the task of recruiting the other participants to their channel, based on the requirement. "
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"list","text":[
+            "The participants are now in groups according to their channels and the groups have to decide the channel name, frame the program schedules for entire week. The teams are given a list of advertisements available and the maximum price they offer, in the categories of ‘High’, ‘Medium’, ‘Low’ adds. An auction is conducted for ‘High’ category adds. Moreover, each groups are asked to give a detailed description of the highest TRP gaining program in their channel and also to state the reason for the same."
+        ]},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"list","text":[
+            "“Into the Frame” . The third round tests entirely the soft skills of the participants by creating a scenario in their tv program where participants need to show their calibre.This round throws at them challenges during live media, preparing the participants to withstand the harsh reality of the media world. "
+        ]}
+    ],
+    "teamSize":[
+        {"type":"Team size","val":"1"}
+    ],
+    "contact":[
+        {"name":"Srihari. S","phone":"(+91) 9487575042"},
+        {"name":"Surendhar. MJ","phone":"(+91) 9790606780"}
+    ]
+}

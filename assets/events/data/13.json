@@ -1,0 +1,39 @@
+{
+    "root":[
+        {"type":"title","text":"INQUISITO"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This is the science based quiz event, where participants would acquire a great deal of knowledge in both science and engineering fields. Inquisito will be a challenging arena for you to showcase your knowledge on a wide range of subjects. This quiz event is conducted in order to bring out the all rounder in you!! This quiz event consist of four preliminary rounds and participants earn a maximum of 100 points. The top 6 teams with maximum points would be selected for the final round!!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Use of mobile phones while answering the questions is strictly prohibited.",
+            "Discussing with other teams is not allowed.",
+            "Participants are requested not to damage the materials provided to them.",
+            "In case of confusion, the decision of the judge will be the final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 508, G 509"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTIONOF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1:CRUZIGRAMA"},
+        {"type":"simple","text":"Give a break to running up and down with your busy chores and now try running up and down to solve this scientific crossword puzzle which tests your knowledge on various fields of study. You are provided with a time scale of 2 minutes within which you are expected to complete the crossword. Points will be awarded based on the number of questions answered correctly within the time limit."},
+        {"type":"subsubtitle","text":"ROUND-2:VERBINO"},
+        {"type":"simple","text":"This would be a unique event to test your imagination and connectivity skills. Here you would have to identify a single word which is indicated by a series of pictures! The fundoesn't end here. You would also have to recite at least three synonyms of the identified word. Points would be awarded based on the number of words identified by each team."},
+        {"type":"subsubtitle","text":"ROUND-3:Ques ’n Cuenco"},
+        {"type":"simple","text":"There is no straight road to success!! We have to face a lot of obstacles in order to be successful. Similarly to score points in this round you would have to answer a question and then cross an obstacle in order to answer the next question. The number of questions answered correctly and the time taken determines your score for this round."},
+        {"type":"subsubtitle","text":"ROUND-4:DECIPHER"},
+        {"type":"simple","text":"You can't savour a pistachio without cracking open it's shell. Likewise in order to know your question for this round, you would have to decode the given code using the suitable method of decoding that would be provided to you. The speed with which you decode it determines your points for this round."},
+        {"type":"subsubtitle","text":"FINAL ROUND:BUZZ"},
+        {"type":"simple","text":"The selected 6 teams would participate in this competitive buzzer round which tests your knowledge on aptitude and the depth of understanding in various subjects. Prizes will be awarded to the team's who top the table with maximum points in the final round."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"3"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"DHANUSH.K","phone":"(+91) 98949 97758"},
+        {"name":"YAZHINI.V","phone":"(+91) 99405 59887"}
+    ]
+}

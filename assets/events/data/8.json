@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"LOGO DESIGNING"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Innovation is what everybody has seen and thinking what nobody has thought. This event gives a platform for innovative minds which will test how innovative you can be in your designing skills. The participant has to design a logo on the given topic using mentioned designing software and has to submit it in PDF format with a brief description on their design."},
+        {"type":"subtitle","text":"TOPICS"},
+        {"type":"simple","text":"The topic will be given on the spot."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "An entry could be by an individual.",
+            "The topic will be given on the spot.",
+            "A total of 1 hour 30 minutes will be given to design the logo.",
+            "The designing has to be done in Adobe illustrator / Photoshop.",
+            "Logo should be submitted in pdf format.",
+            "The logo design must be original and shouldn’t be copied from any other source.",
+            "Each entry should be accompanied by a brief written explanation of the Logo and how best it encapsulates its essence.",
+            "The logo should not have been previously published in any print and/or digital media.",
+            "The logo must not contain any provocative, objectionable or inappropriate content.",
+            "The judge’s decision will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 1-PM"},
+        {"type":"simple","text":"AFDA-CAFD LAB"}
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Logapriya D","phone":"(+91) 90033 56090"},
+        {"name":"Shamruthi C","phone":"(+91) 87783 38170"}
+    ]
+}

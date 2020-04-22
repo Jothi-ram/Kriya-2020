@@ -1,0 +1,34 @@
+{
+    "root":[
+        {"type":"title","text":"ELECTRO-BYTE"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This technical event will test participants knowledge in the field of Electrical and Electronics. Contestants will face two rounds with brain teasing questions which will force them to think out of the box. Don’t miss this amazing opportunity to showcase your talents and win exciting prizes!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Mobile phones and calculators are not allowed.",
+            "Judges decisions will be final.",
+            "Discussion with other teams is not allowed",
+            "Timing constraints should be maintained"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 405"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"Round 1 will be a ‘pen and paper’ round. This round consists of 30 multiple choice questions with a time limit of 30 minutes. Questions will be based on Digital, analog and circuit theory. The shortlisted teams from round 1 will move to round 2.In case of tie scores between the teams, teams who have correctly answered the marked questions will be given higher priority."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"Round 2 will be a quiz-based audio-visual round with 30 questions, where the questions on visual and audio are connected to circuit knowledge. The questions of this round will be of type JAM based on analog and digital circuit design, microprocessor or microcontroller and electrical. In each turn the teams will be asked to choose a question indirectly based on a number they chose. The question will be displayed either as a video or a picture. Each team will be given the time limit tosolve the riddle. If not answered that question will be awarded as bonus for other teams. At the end of the round, the performers with higher scores are awarded."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Nitheesh P","phone":"(+91) 91594 88399"},
+        {"name":"Sabareesh S","phone":"(+91) 95007 06536"}
+    ]
+}

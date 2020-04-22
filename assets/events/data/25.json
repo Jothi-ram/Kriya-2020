@@ -1,0 +1,30 @@
+{
+    "root":[
+        {"type":"title","text":"THE ILLUSTRATOR’S SKETCH"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Design a garment based on the theme shown as a picture. Perceive it, and show us what you’ve got. People, let your colors run wild! Relevancy is the key!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Entries will be done on spot",
+            "Only A3 sheet and color pencils will be provided. All other necessary materials required for sketching must be brought by the participants.",
+            "Decision of the judge will be the final and changes will not be done further"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 12-PM"},
+        {"type":"simple","text":"G 304"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"Theme will be displayed on the spot. The participants will have to illustrate a garment relevant to the theme on the sheet."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"1"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Mamtha. M","phone":"(+91) 88706 06981"},
+        {"name":"Praveena Shree .R","phone":"(+91) 90803 15546"}
+    ]
+}

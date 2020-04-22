@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"Game Of Codez"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Hey Peeps! Tired of boring programming sessions? Come join us for some challenge! The machine is not merely to survive but to thrive; and to do so with some passion, some compassion, some humour and some style. Perfection is achieved not when there is nothing to add, but rather when there is nothing more to take away.<BR><BR> So, come make it work, make it right and make it fast. We welcome you all to participate!!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Each team can have maximum 2 members.",
+            "Any team that is not ready at the specified time will be scratched from the competition automatically. ",
+            "No two teams shall be allowed to discuss while they are coding.",
+            "Judges decision shall be treated as the final and binding on all.",
+            "No team should use any electronic devices within the event arena.",
+            "Any team which violates these rules shall be eliminated directly."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 1-PM"},
+        {"type":"simple","text":"GRD LAB CSE"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"“Give it a try!”Round one is an eliminator round. <BR><BR>The first round of the prelims is BLIND CODING! The participants will be given with a set of problems for which they will be coding the solution. But the monitor will be turned off and participants are required to code the solution blindly.<BR><BR>The second round of the prelims is CHAT CODING! Given a problem statement the participants are asked questions to which they have to answer simultaneously. The total time taken to code the solution including the chat along with problem solving is calculated and the participants will be filtered for the final round."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"The final round is FASTEST FINGERS FIRST. The problem is displayed for 5 minutes in the beginning. After every 5 minutes a debugging statement will be displayed for a minute. Only those who debug the statement will be allowed to continue to code for the first displayed problem statement for the next 5 minutes. Others are not allowed to code until a next debugging statement is displayed. The team which completes the solution first are winners."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Dinesh .K","phone":"(+91) 95972 13413"},
+        {"name":"Sivakami .N","phone":"(+91) 89031 96847"}
+    ]
+}

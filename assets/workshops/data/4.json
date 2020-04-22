@@ -1,0 +1,66 @@
+
+{
+    "root":[
+        {"type":"title","text":"SVADHYEYA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This paper presentation provides a platform for young minds. A problem is a chance for you to do your best, let the world know that it has got many Einstein’s and Curie’s than it could ever imagine. Now is exactly your time, be the game changer with your ideas and just let it flow through your words."},
+        {"type":"subsubtitle","text":"ROUND 1"},
+        {"type":"list","text":["Abstratcs will be selected from all those being submitted."]},
+        
+        {"type":"subsubtitle","text":"ROUND 2"},
+        {"type":"list","text":["Presentation of selected papers on the day of event."]},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Cellular bioengineering",
+            "Telehomecare",
+            "Health care information systems",
+            "Medical image processing",
+            "Artificial neural networks",
+            "MEMS technology in health care",
+            "Brain Computer Interface",
+            "Virtual assistance in health care",
+            "Healthcare robotics"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"ROUND 1"},
+        {"type":"simple","text":"Abstracts will be selected from all those being submitted."},
+        {"type":"list","text":[
+            "A team can have a maximum of 2 members.",
+            "You are free to select topics from the ideas listed.",
+            "Participants should send an abstract of their work to the mail id provided.",
+            "The abstract should not exceed 300 words. In case of video, the maximum duration of the video should not exceed 5 minutes.",
+            "Working Models or Simulation Results will be considered as an add-on to your work.",
+            "Selected teams after scrutiny will be intimated through their respective mail id.",
+            "Details of the team members: Name, Department, Email id, Contact Number and Institution name should be sent along with abstract.",
+            "Deadline for submission: <b>On or before 13th Of February,2020</b> to <a href='mailto:svadhyeyakriya@gmail.com'>svadhyeyakriya@gmail.com</a>",
+            "The abstracts will be shortlisted on <b>15th of February,2020</b>."
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2"},
+        {"type":"simple","text":"Presentation of selected papers on the day of event."},
+        {"type":"list","text":[
+            "Selected teams will be allowed to present their papers. No spot entries are allowed.",
+            "Participants should submit the soft copy of the full paper in IEEE Format (abstract alone will not be accepted).",
+            "The paper should not exceed 8 pages.",
+            "Selected teams should bring two hardcopies and one softcopy of the paper (IEEE format) at the time of presentation.",
+            "Bring your softcopies in a pen drive.",
+            "Working models will fetch you more points",
+            "The time limit for the presentation is 15 minutes (12 minutes for presentation and 3 minutes for queries)",
+            "Decision of judges will be final."
+        ]},
+    
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 12:30-PM"},
+        {"type":"simple","text":"G 409"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"Yuvan Pradeep C.M.","phone":"(+91) 99449 00439"},
+        {"name":"Prakalyaa.T","phone":" (+91) 81100 99156"}
+    ]
+}

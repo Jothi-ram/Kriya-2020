@@ -1,0 +1,43 @@
+
+{
+    "root":[
+        {"type":"title","text":"AEROSPACE AVIONICS"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"   Aircraft and spacecraft have become very highly sophisticated machines that can, for the most part, fly themselves with the aid of on-board and/or centralized computer systems that can process thousands of data/pieces of information in a few seconds or even less.<BR>Despite all of these automated capabilities, there still remains a need for pilots and crew aboard these vessels and they, along with the hundreds of thousands of passengers who fly commercially on a daily basis, must rely on the electronic systems and control systems to operate with the degree of reliability and precision that is required for safe flight.  So just who has the behind-the-scenes jobs and responsibilities for these flight-critical systems?<BR>This accountability principally rests within the descriptions of avionics and avionics engineers.  From a broader perspective, the workshop  is focused on the following with respect to aircraft and spacecraft electronics which is covered from the basics with videos, PPTs and the recent issues in aerospace field."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>8:55 AM </b> - Students should assemble at the allotted Hall.",
+            "<b>9:00 AM – 11:00 AM</b> - A lecture session regarding the need for aerospace avionics ",
+            "<b>11:00 AM – 12:00 PM</b> - Lecture session on Evolution of Avionics .Electrical power generation and distribution systems ,Electrical Navigation systems,Radio Navigation Systems,Instrument Landing System ,Air Traffic Control System ",
+            "<b>12:00 PM – 01:30 PM</b> - Lunch Time.",
+            "<b>01:30 PM – 04:00 PM</b> - Lecture session on Pitot static system ,Communication systems  Flight Data Recorders,Cockpit voice recorders ,Glass cockpit systems ,Integrated Tactical Mission suite ,Space avionics."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually"
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 500/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"10-AM to 4-PM"},
+        {"type":"simple","text":"D-1st FLOOR"}
+    ],
+        "contact":[
+        {"name":"ANCY PHILLOMINAA A","phone":"(+91) 83003 04693"},
+        {"name":"DHARSINI K","phone":" (+91) 82480 14975"}
+    ]
+}

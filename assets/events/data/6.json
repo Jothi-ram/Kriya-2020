@@ -1,0 +1,49 @@
+{
+    "root":[
+        {"type":"title","text":"RABG 2.0 – It’s Lit!"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"“It is during our darkest moments that we must focus to see the light”, said Aristotle. You’ll need to bring your A-game to ace this event as your creation will have to travel through the darkest of mists and must be smart enough to make the right decisions when it encounters crossroads. So, do you have what it takes to build the bot that crosses all the hurdles to emerge victorious?"},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":""},
+        {"type":"simple","text":""},
+        {"type":"subsubtitle","text":"ROUND 1 (DRIVE AWAY DARKNESS):"},
+        {"type":"list","text":[
+            "In this round the Bot is expected to complete the given track by tracing the light, avoiding smoke & obstacles and following colour signs (Red meaning stop and Green meaning Go).",
+            "The track includes U turns, V turns and loops.",
+            "There will be 3 Checkpoints.",
+            "The points will be based on the time taken to cross each checkpoint.",
+            "Top 5 teams will be selected for the next level.",
+            "<b>Timing: 9:00 a.m. to 1:00 p.m.</b>"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2 (FIND YOUR WAY):"},
+        {"type":"list","text":[
+            "In this round the Bot must solve a maze by tracing the light, avoiding smoke & obstacles and following colour signs (Red meaning stop and Green meaning Go), same as Round 1.",
+            "Points will be reduced if the Bot chooses wrong path.",
+            "The Bot that solves the Maze in the least time will be awarded.",
+            "<b>Timing: 2.00 p.m. to 4:30 p.m.</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"list","text":[
+            "The track will be shown only at the time of the event.",
+            "The track will be made of Led Strips with Red/ Green signs in intersections.",
+            "Incense will be used to produce Smoke.",
+            "Calibration time will be provided (Total of 15 minutes for all the teams).",
+            "There is no restriction on the size of the Bot. However, Bots under 20X20X20 cm will be awarded additional points.",
+            "Any bot that causes damage to the arena will be disqualified.",
+            "Judges can disqualify a team that involve in any kind of malpractice."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 401"}
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"3"}
+    ],
+    "contact":[
+        {"name":"PONKAMALI P","phone":"(+91) 74487 05348"},
+        {"name":"SHRIRAM R","phone":"(+91) 83004 48682"}
+    ]
+}

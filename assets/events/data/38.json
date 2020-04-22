@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"ELECTROZEST"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This event aims at testing the electronics knowledge of the participants. It involves various electrical circuits and concepts in electronics. Participants are required to use both their knowledge and creativity for this event. This event’s objective is to brush some of the basic electrical theories. Apart from the knowledge one has over the subject this event may also help in testing the memory power of the participants, and to excite the creative neurons in brain. The event also teaches us the urge to solve a problem within a allocated time and also the value of  being exact when resolving a given tricky situation."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Mobile phones are not allowed. ",
+            "Discussing with other teams not allowed.",
+            "Judges descision are considered as final"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"10-AM to 4-PM"},
+        {"type":"simple","text":"G 306"} ,
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"MCQ based on basic electronics. This round will involve basic and tricky questions which would test the participants knowledge on electronics. Some questions will be straight forward while others would require logical thinking."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"This round will test the participants knowledge about various devices. The participants will be shown an image of a device for few seconds and they will have to identify and write down the name and use of the device. The results will be based on the number of devices identified."},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"This round is all about circuits, circuits and nothing but the circuits alone. There is always a problem faced by every Engineer before the final circuitry for a particular design is ready. This round tests the ability of the team to rectify the mistakes in a given circuit diagram. the teams will be provided with circuits that has some corrections to be done in order to get the required output. The contestants have to use their electrical knowledge to rectify the mistakes; the output for the circuit is given. So the teams have to work out the problem in order to come out with the correct circuit. A fixed time is allocated for them to accomplish the task based on their closeness to correct circuit the teams will be rewarded."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"NAVEEN R","phone":"(+91) 88256 46443"},
+        {"name":"JOVITA SHERIL","phone":"(+91) 83090 55321"}
+    ]
+}

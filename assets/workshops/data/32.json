@@ -1,0 +1,43 @@
+
+{
+    "root":[
+        {"type":"title","text":"NON DESTRUCTIVE TESTING-CONVENTIONAL AND RECENT TECHNIQUES"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Non-destructive testing (NDT) is a wide group of analysis techniques used in science and technology industry to evaluate the properties of a material, component or system without causing damage. The terms non-destructive examination (NDE), non-destructive inspection (NDI), and non-destructive evaluation (NDE) are also commonly used to describe this technology. Because NDT does not permanently alter the article being inspected, it is a highly valuable technique that can save both money and time in product evaluation, troubleshooting, and research. The six most frequently used NDT methods are eddy current, magnetic-particle, liquid penetrate, radiographic, ultrasonic, and visual testing."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>9:00 AM – 10:30 AM</b> - Theories on Introduction and applications of NDT, Visual testing ,Liquid Penetrant testing",
+            "<b>10:45 AM – 1:00 PM</b> - Theories on Eddy current testing, magnetic-particle testing ,radiographic testing, ultrasonic testing",
+            "<b>1:45 PM – 3:00 PM</b> - Practical demonstrations on Visual testing ,Liquid Penetrant testing",
+            "<b>3:15 PM – 4:45 PM</b> - Practical demonstrations on Eddy current testing, magnetic-particle testing ,radiographic testing, ultrasonic testing.",
+            "<b>4:45 PM – 5:00 PM</b> - Conclusion."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+       {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 400/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 5-PM"},
+        {"type":"simple","text":"F-203,NDT LAB"}
+    ],
+        "contact":[
+        {"name":"Ajaykumar N P","phone":"(+91) 94425 57004"},
+        {"name":"S D Krishna Prasad","phone":" (+91) 90801 89559"}
+    ]
+}

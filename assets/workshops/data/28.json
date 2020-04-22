@@ -1,0 +1,53 @@
+
+{
+    "root":[
+        {"type":"title","text":"PHOTOVOLTAIC SYSTEM DESIGN"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"In day-to-day life, we are living in a world driven by electrical energy. We cannot rely on fossil fuels to produce electricity for a long time. We are in need of an alternative energy source. The most abundant renewable source in the world is the sun. Therefore, in coming future, there will be a huge demand for engineers who are well versed in solar. But, the institutions are lagging in inculcating the required knowledge to the students. Therefore, it can be learned only through practical exposure which is made available in this workshop."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "DAY 1",
+            "<b>9:55 AM</b> - Students should assemble at allotted Hall.",
+            "<b>10:00 AM – 11:00 AM</b> - Overview of Photovoltaic System.",
+            "<b>11:00 AM – 12:00 PM</b> - Basics of Solar Energy",
+            "<b>12:00 PM – 1:30 PM</b> - Lunch",
+            "<b>1:30 PM – 4:00PM</b> - Panel and inverter technologies, BOS component selection and site design.<BR><BR>"
+        ]},
+        {"type":"list","text":[
+            "DAY 2",
+            "<b>9:55 AM</b> - Students should assemble at allotted Hall.",
+            "<b>10:00 AM – 11:00 AM</b> - Key performance indicators.",
+            "<b>11:00 AM – 12:00 PM</b> - Grid tied system design",
+            "<b>12:00 PM – 1:30 PM</b> - Lunch time",
+            "<b>1:30 PM – 4:00PM</b> - Lab visit.<BR><BR>",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 900/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21 & 22"},
+        {"type":"simple","text":"10-AM to 4-PM"},
+        {"type":"simple","text":"Y-201"}
+    ],
+        "contact":[
+        {"name":"HARSHINI T","phone":"(+91) 94879 59557"},
+        {"name":"SIVASEDHU S","phone":" (+91) 90802 34829"}
+    ]
+}

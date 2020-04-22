@@ -1,0 +1,34 @@
+{
+    "root":[
+        {"type":"title","text":"QUIZOPHILE"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Want to put all your basic school physics into action? Showcase your knowledge in physics in the fun filled quiz event ‘QUIZOPHILE!’ Show your entire potential, to tunnelling through the first round where all the fun begins! The next set of rounds will be fun filled and will engage you entirely, so that you can steal the show! Enjoy the day and walk away with prizes!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A Team may consist of maximum 2 participants.",
+            "Participants must strictly adhere to the timings mentioned for each round.",
+            "Mobile phones and Calculators are not allowed.",
+            "The Judge’s decisions will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 2:30-PM"},
+        {"type":"simple","text":"G 304,305"} ,
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"Round 1 will be a ‘pen and paper’ round, where the participants are allowed to take up the test anytime in the allotted session. This round will have multiple choice questions and a crossword puzzle. The questions will be based on basic physical phenomena and physics in our day-to-day life. The test will last for about 45 minutes. The shortlisted teams from round 1 will move on to the second round. In case of a tie scores between two teams, teams who have correctly answered the questions marked will be given higher priority."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"The round will last for about 45 minutes. This round will be based on questions from general physics, Noble laureates, and pictures of scientists. One of the participants in each team will be asked to pick a ball (from a bag) which reveals the amount of time the other participant has to come up with the answer for the question. Each team will have to pick 10 balls. The participants will have to swap their roles for each 5 questions. The correct answer will fetch the team five points."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Marikannan M","phone":"(+91) 88071 02174"},
+        {"name":"Kathir Saravanan T","phone":"(+91) 63842 25745"}
+    ]
+}

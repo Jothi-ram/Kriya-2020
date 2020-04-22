@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"CODE MANIACS"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Code Maniacs is an event that tests your logical, mathematical and programming skills. <BR>Love problem solving and coding?. Then this event is completely for you !<BR>The first round consists of Technical MCQ's, the next round goes with 1 on 1 coding challenge and the final round is an online coding round. Only the shortlisted teams from each round will be moved on to the next round.<BR>while(alive)<BR>{<BR>                    keep_coding();<BR>}"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Each team can have maximum 2 members.",
+            "No team should discuss with the other.",
+            "No usage of mobile phones or other gadgets during the event.",
+            "Judge’s decision is final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"IT MAIN LAB 2"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1: Press Any Key to Continue…"},
+        {"type":"simple","text":"Round one is an eliminator round. Participants will be given with a set of MCQ’s. The team that scores the maximum score within the stipulated time would be allowed to move on to the next round."},
+        {"type":"subsubtitle","text":"ROUND-2: Get....Set....Code"},
+        {"type":"simple","text":"The second round is a 1 on 1 challenge round. Participants will be given with a set of questions each of which has the same level of difficulty. The team which solves the given question before the opponent does, qualifies for the next round."},
+        {"type":"subsubtitle","text":"ROUND-3: Bits Please !"},
+        {"type":"simple","text":"The Third round is a Online Coding round, the team which solves the question by passing maximum number of test cases will be awarded. Note: Time taken to solve the question is important."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Vimalkumar R","phone":"(+91) 98949 35525"},
+        {"name":"Vinitha R","phone":"(+91) 73393 43150"}
+    ]
+}

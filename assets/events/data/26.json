@@ -1,0 +1,37 @@
+
+{
+    "root":[
+        {"type":"title","text":"ALTER DIME"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This event is for people who are fascinated in designing and building circuits and for those who are crackerjack in pegging faulty circuits. The MCQs test the technical knowledge of the participant and the second round brings out the budding circuit designer inside the participant by designing creative circuits as well as satisfying the given constrains. The final round tests the agility of the participants by cracking the bugs in the circuits and fixing them."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Time limit will be strictly adhered to.",
+            "Usage of internet is strictly prohibited.",
+            "The decision of the judges will be final.",
+            "Mobile phones are not allowed.",
+            "Participants should bring laptop installed with “MULTISIM” software for final round."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 504 & EDC LAB"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"In this round participant’s technical knowledge is tested through twenty questions which fall under the areas of Electric circuits, Electronic devices and Digital electronics. All these questions are Multiple Choice Questions(MCQs). The time provided for this round will be 30 minutes."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"In this round the participants have to design and simulate the circuit in “MULTISIM”. The participants have to design simple electric and electronic circuits based on the given specifications and display the output in 30 minutes."},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"In this round the participants have to debug the given circuit to produce the desired output. The participants will be provided with all the necessary components and they have to fix the circuit within the given time frame of 45 minutes."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"RAJASEKARAN M S ","phone":"(+91) 90035 42785"},
+        {"name":"POOJA A","phone":"(+91) 87542 97082"}
+    ]
+}

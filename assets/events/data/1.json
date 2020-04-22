@@ -1,0 +1,76 @@
+{
+    "root":[
+        {"type":"title","text":"THE INNOVATIVE CULVERIN"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"A pneumatic weapon is a weapon that fires a projectile by means of air pressure, The Holman Projector was an anti-aircraft weapon used by the Royal Navy during World War II, primarily between early 1940 and late 1941. The weapon was proposed and designed by Holmans, a machine tool manufacturer based at Camborne, Cornwall. A number of models were produced during the war years, but all worked on the principle of a pneumatic mortar, using compressed air or high-pressure steam to fire an explosive projectile at enemy aircraft."},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":"Design an Air Cannon using PVC Pipe To test Parachute design carrying the Payload."},
+        {"type":"list","text":[
+            "1.  Air Cannon Powerful enough so that payload reaches Maximum height",
+            "2.  Parachute Should be designed with more time of flight"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 1 (DEMONSTRATION):"},
+        {"type":"list","text":[
+            "Critical Parameters will be noted Air Cannon Payload and Parachute"]},
+        {"type":"sublist","text":["Operating Pressure",
+            "Reservoir Volume",
+            "Valve Used",
+            "Dimension of Cannon",
+            "Mass of the Payload",
+            "Dimension of the Parachute",
+            "Fabric Used for Parachute"
+            ]},
+        {"type":"list","text":[    
+            "Shortlisting will be based on the Time of Flight of the Payload",
+            "Two Chances will be given to the team",
+            "This round is eliminative."]},
+        
+        {"type":"subsubtitle","text":"ROUND 2 (PRESENTATION):"},
+        {"type":"list","text":[
+            "Neat and detailed power point presentation is required.",
+            "Decision of Winners will be based on the technical capability of the team (Will be evaluated by the faculty of PSG CT)",
+            "Points to be Covered to increase the probability of winning"]},
+        {"type":"sublist","text":[
+            "Basics of Air Cannon and Parachute Design",
+            "Design Aspects Considered during the fixing of Critical Parameters",
+            "Free body diagram",
+            "Velocity Calculation",
+            "Drag of Parachute",
+            "Influence of Other Environmental Factors",
+            "Mathematical Model"]},
+        {"type":"list","text":[
+            "Asking Valuable questions to the other team mates will be allowed at the end of every presentation"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"list","text":[
+            "Maximum of 4 participants, not necessarily from the same college.",
+            "PVC Pipe and Adhesives are to be selected in such a way to withstand High Pressure. (Improper selection of pipe and adhesives may lead to explosion. In Such Case Student will be immediately disqualified without any arguments)",
+            "Maximum pressure supported is 80psi (Operating at lower Pressure Will be an added advantage during Tie).",
+            "All energy given to the rocket must only come from the air pressure. No other source of energy is allowed.",
+            "Parachutes Should be made of Fabric materials and Use of Polyethylene bags are Not Allowed. • The teams will be disqualified/given another chance to remodel if the model is found to be dangerous in any way.",
+            "Use of electronic Solenoid Valves are allowed to release the Air Pressure",
+            "Sample - <a href='https://robu.in/product/dc12v-plastic-electric-12v-water-solenoid-valve-electric-solenoid-valve-magnetic-nc-water-air-inlet-flow-switch-nc-12/' target='_blank'>External Link</a>",
+            "Cannon should only be operated in front of the Organizers Only. usage of cannon anywhere in PSG Tech Campus is strictly Prohibited.",
+            "No glass or sharp objects Should be used for firing.",
+            "Foot pumps will be provided by organizers; this pump is compatible with standard bike valve.",
+            "Check and correct the valve sizes beforehand to avoid any inconvenience.",
+            "Participants should use only the leg pump provided by organizers.",
+            "The decision of the judge is final and binding.",
+            "Total Weight (Payload +Parachute fabric and Rope) Should be made as light as possible.",
+            "Cannon should be fired only in the vertical Direction. Horizontal Direction Firing is not allowed for Safety Purpose."
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"N BLOCK GROUND & G-402"} 
+    
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"2"},
+        {"type":"Maximum","val":"4"}
+    ],
+    "contact":[
+        {"name":"Praveen Kumar R","phone":"(+91) 95665 27457"},
+        {"name":"Navin Vijey Raj J","phone":"(+91) 82207 88158"}
+    ]
+}

@@ -1,0 +1,82 @@
+[title]{
+    text-align: center;
+    color:white;
+    margin-top:50px;
+}
+[subtitle]{
+    text-align: center;
+    color:white;
+    margin-bottom:120px;
+}
+@media only screen and (min-width:767px){
+    .teamGrid{
+        margin-top:120px;
+    }
+    
+}
+@media only screen and (max-width:767px){
+    .teamCard{
+        margin-left:5px;
+    }
+    [subtitle]{
+        margin-bottom:20px;
+    }
+}
+
+[pageTitle]{
+    margin-top:30px;
+    color: white;
+    font-family: oswald;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+@media only screen and (max-width : 767px){
+    [pageTitle]{
+        font-family: oswald;
+        margin-top:100px;
+    }
+}
+.teamCard img{
+    position:absolute;
+    top:-100;
+    width:200px;
+    height:200px;
+    margin-bottom:100px;
+    border:5px solid transparent;
+    border-left:5px solid orangered;
+    transition: 0.5s;
+    border-right:5px solid orangered;
+}
+.teamCard .cardbg{
+    background: black;
+    border-left:1px solid red;
+    border-right:1px solid red;
+    border-top:5px solid red;
+    border-bottom:1px solid red;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.teamCard .cardbg:hover{
+    cursor:pointer;
+    background: rgb(34, 34, 34);
+}
+.teamCard h3{
+    text-align: center;
+    color: white;
+    font-family: ralewayR;
+}
+.teamCard p{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    font-family: josefinR;
+}
+.cardbg{
+    color:white;
+}
+.cardbg h3{
+    margin-top:100px;
+}

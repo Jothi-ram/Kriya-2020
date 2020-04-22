@@ -1,0 +1,28 @@
+{
+    "root":[
+        {"type":"title","text":"PATCH ‘N’ STITCH"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Creativity has no limits… the more you use, the more you have! PATCH ‘N’ STITCH is all about it where, few bits of cloth will be provided out of which the participants have to create a garment according to the given topic. The participants must join these pieces using needle and thread. The topic for the competition will be provided on the spot."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A team can contain 2-4 participants.",
+            "The topic will be given on the spot.",
+            "The materials will be provided by the event organisers.",
+            "A total of 1 hour 30 minutes will be given.",
+            "The judges decision will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"1-PM to 4-PM"},
+        {"type":"simple","text":"G 309"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"4"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Sindhuja S","phone":"(+91) 82482 87434"},
+        {"name":"Suma K","phone":"(+91) 99440 69519"}
+    ]
+}

@@ -1,0 +1,42 @@
+
+{
+    "root":[
+        {"type":"title","text":"TECHNICAL RELEVATION"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"To sustain in the race, you have to express yourself.<BR>Here is an opportunity for you to reveal your thoughts to others. We are awaiting to learn and grow from the content you share!"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Advances in concrete technology.",
+            "New technique in waste water management.",
+            "Applications of geotextiles in civil engineering."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"list","text":[
+            "The willing participants are directed to send the abstract of the given presentation to <a href='mailto:technicalrelevationpsgkriya@gmail.com'>technicalrelevationpsgkriya@gmail.com</a> on or before 13.02.2020",
+            "The abstract should not exceed 250 words.",
+            "The shortlisted abstract will be notified to participants on 15.02.2020",
+            "The participants whose abstract is approved by the organizing committee is permitted to present.",
+            "The participants should adhere to the timing (20 mins for presentation and 5 mins for viva).",
+            "Plagiarism is not entertained.",
+            "The judges’ decision will be final."
+        ]},
+        
+        {"type":"subsubtitle","text":"ROUND 1"},
+        {"type":"simple","text":"•  The participants should adhere to the timing (20 mins for presentation and 5 mins for viva)."},
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"K - 206 (CIVIL SEMINAR HALL)"}
+
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"A.B.LOGESHWAR","phone":"(+91) 70929 71023"},
+        {"name":"R.SRIDEVI","phone":" (+91) 78711 65208"}
+    ]
+}

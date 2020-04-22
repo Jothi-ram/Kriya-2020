@@ -1,0 +1,39 @@
+
+{
+    "root":[
+        {"type":"title","text":"ECLIPSE"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<b>Are you a space lover with ideas to explore space?! You are the one we are looking for!!!<b><BR>“Ideas without execution is a daydream”.  Are you looking for a platform to present your ideas/concept in Space science and Technologies? If yes, we are glad to introduce you ‘ECLIPSE’ – A Paper presentation event, in which you can pitch in your ideas and mesmerize us with your skills.<BR>Prototypes are most welcome and have weightage in evaluation.<b> The winners will be encouraged to develop a prototype based on the concept presented and will be given an opportunity to showcase this prototype in the upcoming event conducted by PSG Space Centre.</b>"},     
+        {"type":"subsubtitle","text":"TOPIC"},
+        {"type":"list","text":[
+            "Space and technologies"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Teams should send the abstract of their ideas/concept specific to Space science and Technology on or before February 13th, 2020 to the mail ID <a href='mailto:eclipsepsgkriya@gmail.com'>eclipsepsgkriya@gmail.com</a>.",
+            "The selected teams will be notified on or before February 15th, 2020.",
+            "Maximum 3 per team.",
+            "Abstract should not exceed 250 words.",
+            "Abstract should be in IEEE format.",
+            "Judges decision will be final."
+        ]},
+        
+
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 3"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"SPACE CENTRE"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"SANJEEVI S","phone":"(+91) 87788 66305"},
+        {"name":"KIRUBASHANKARAN G","phone":" (+91) 96774 93856"}
+    ]
+}

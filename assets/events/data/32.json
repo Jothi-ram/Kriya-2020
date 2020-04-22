@@ -1,0 +1,35 @@
+{
+    "root":[
+        {"type":"title","text":"FAMOUS BREAK"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"“The event is about revealing the bright and dark fields of all the branches of basic engineering.It will test youe basic soft skills and knowledge on the basis of Jumble words and lecturette . The event will be conducted on two phases."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Results Declared by Judges will be the final",
+            "Mobile phones allowed for 2nd round",
+            "Participants should be on time",
+            "1st round result will be declared on text message on your registered mobile number",
+            "Participants should not argue with judges"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 409"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"WORDSMINIA-is a Preliminary phase consists of JUMBLE WORDS basic engineering terms at a duration of 15 mins on 10:00AM-12:00PM based on the preliminary result  participants will be selected for next phase."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"BRIGHTFIELD is a final phase of the event.it consists of lecturette .Topic for the lecturette  will be given on onspot. Participants will give their best presentation of the topic with given time based on the performance of the participant final results will be declared by judges.timing of the round 2 is 02:00PM-3:00PM."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Arun C","phone":"(+91) 94458 29256"},
+        {"name":"Poovarasan","phone":"(+91) 95978 87284"}
+    ]
+}

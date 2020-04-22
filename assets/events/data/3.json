@@ -1,0 +1,42 @@
+{
+    "root":[
+        {"type":"title","text":"KRIYA OPEN QUIZ"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Kriya open quiz is a signature event of ASQ where the best quizzing minds compete to become the ‘best of best'. Questions are hand picked and curated to give the best quizzing experience to the quizzers. The senior most and best quizzers of the club host the event as a convention which is followed every year. Come, join us during the event to give your brain some exercise and be a part of one among the most anticipated events of kriya !"},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":""},
+        {"type":"simple","text":[]},
+        {"type":"subsubtitle","text":"ROUND 1 :"},
+        {"type":"list","text":[
+            "The first round (Prelims) consists of 20 questions. Teams of 2 will take part in the preliminary round. Questions from all fields, starting from cinema to sports will be asked and in-built tie-breakers will be present. At the end of the round top 6 teams will make it to the finals. This round will not have any negative scoring and hence it is good to give a shot to every questions.",
+            "<b>Timings : 1 00 pm - 2 30 pm ( approx )</b>"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2 :"},
+        {"type":"list","text":[
+            "The second round is the finals which consists of 5 rounds with each round consisting of 6 questions. Negatives and marks per question will be informed during the event. At the end of 5 rounds, the team with highest score will be adjudged the winner . The rounds will vary from infi-pounce, rapid fire and LVCs. Apart from the top 6 teams, numerous audience questions will be present amidst rounds and prizes will be given for the same.",
+            "<b>Timings : 2 30 pm – 4 00 pm ( approx )</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"list","text":[
+            "Teams of 2 are allowed",
+            "Star marked questions will fetch 2 points",
+            "No googling answers",
+            "Never discuss with your neighbours",
+            "Judge's decision is the final",
+            "Round-wise rules will be informed during the event"
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"1-PM to 4-PM"},
+        {"type":"simple","text":"D BLOCK GROUND FLO0R"} 
+    
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"1"},
+        {"type":"Maximum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Mithun J","phone":"(+91) 99430 90236"},
+        {"name":"Sharan","phone":"(+91) 9629563310"}
+    ]
+}

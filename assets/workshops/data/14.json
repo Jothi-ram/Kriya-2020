@@ -1,0 +1,76 @@
+
+{
+    "root":[
+        {"type":"title","text":"Wagon Placard"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Wagon Placard is an integrated creation of an idea held as Technical poster presentation competition organized by Society of Automotive Engineers (SAE) Collegiate Chapter. Presenting your idea as a poster in a single frame needs good technical and presenting skills which helps to show your hidden talent in this good platform. Register online and make your posters ready before coming to presentation. Integrate your idea and exhibit your talent. Participants are requested to send an abstract of maximum 200 words regarding any of the topic mentioned below within 13.02.2020. Mail the abstract to <a href='mailto:wagonplacardpsgkriya@gmail.com'>wagonplacardpsgkriya@gmail.com</a>"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Alternate fuel for automobile",
+            "EV/HV power train",
+            "BS-VI technologies",
+            "Intelligent/ integrated transport system",
+            "Fuel cell vehicles",
+            "Battery management system in EV/HV",
+            "Engine efficiency increment techniques",
+            "Fuel injection technologies."
+        ]},
+        {"type":"subsubtitle","text":"FEATURES"},
+        {"type":"list","text":[
+            "Visualizing the overall theme in a single poster.",
+            "Looking into the broadside of the topic.",
+            "Innovative ideas and practicality.",
+            "Eye catching and informative design.",
+            "Good Communication Skills."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"The event comprises of two rounds"},
+        {"type":"subsubtitle","text":"1. Written test"},
+        {"type":"simple","text":"Teams are asked to complete a test from any of the two topics mentioned below. "},
+        {"type":"sublist","text":[
+            "Fuel cell technologies",
+            "Battery technologies"
+        ]},
+        {"type":"subsubtitle","text":"2. Poster presentation"},
+        {"type":"list","text":[
+            "A team is expected to present the poster for the maximum time of 10 mins and a questioning session of 5 mins.",
+            "Presentations cannot be repeated.",
+            "Evaluation of the presentation is based on"
+        ]},
+        {"type":"sublist","text":[
+            "Depth of content.",
+            "Verbal interaction of the presenter.",
+            "Presentation style.",
+            "Organisation (Clear, concise materials and methods. Highlighting the major concepts. Legible pictures, figures and legends.)"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Send your abstract (PDF format) of maximum 200 words regarding any of the topic mentioned to <a href='mailto:wagonplacardpsgkriya@gmail.com'>wagonplacardpsgkriya@gmail.com</a>",
+            "Last date for sending the abstract is 13/02/2020, Shortlisted participants will be intimated within 15/02/2020.",
+            "Maximum of two students are allowed to present a single poster.",
+            "The size of poster must be in A1 (Paper/Flex/Bond sheet). It should be displayed on a space provided.",
+            "Content depicted in the poster should be easily understandable even without any explanation. (Use pictures, symbols and images to convey your idea in a technical way. And you can also add digital works.)",
+            "The teams have to submit their hard copy of the poster on the day of the event.",
+            "Teams are not encouraged for delayed submission of posters.",
+            "The presentation should last a maximum of 10 minutes. This will be followed by a 5 minutes Q & A session.",
+            "Cumulative score of both the rounds will be considered for the overall evaluation.",
+            "Judge’s decision will be final."
+        ]},
+    
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 2"},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 302"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"Hemanth Kumar S","phone":"(+91) 84898 87229"},
+        {"name":"Santhosh Kumar V S","phone":" (+91) 95006 57127"}
+    ]
+}

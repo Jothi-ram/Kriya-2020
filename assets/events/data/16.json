@@ -1,0 +1,38 @@
+{
+    "root":[
+        {"type":"title","text":"DESIGNER HUNT"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Designing is one of the seas, where you can explore, create magic and do whatever you want. Hope you are looking for an amazing opportunity to show your skill in computer aided designing."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "The designers should complete the given design in stipulated time.",
+            "The designers are expected to adhere to the timings.",
+            "The judges’ decision is final."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"list","text":[
+            "The designers will be given with isometric views.",
+            "The designers are expected to reproduce the plan within the stipulated time efficiently.",
+            "Time limit is 1 hour"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"list","text":[
+            "The shortlisted designers will be asked to draw the detailed plan and 3D view of the structure.",
+            "Time limit is 2 hours 30 mins."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"CIVIL UG COMPUTER LAB"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"1"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"R.NAMBUVIJAY","phone":"(+91) 63798 65908"},
+        {"name":"G.BASKARA","phone":"(+91) 90808 22181"}
+    ]
+}

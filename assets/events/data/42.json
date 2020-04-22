@@ -1,0 +1,39 @@
+{
+    "root":[
+        {"type":"title","text":"REDESIGN"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"An event for the innovative minds!!!Are you someone who thinks yourself as a designer or as deliverer of ideas?? This event will test how innovative you can be in your designing skills!! Come show case your ideas. Solve problems. Improvise the solutions of others. Formulate the problem statements. Think from a different perspective.Bring out the Einstein in you. Combining the excitement of designing with Science and technology. We believe “REDESIGN” stands a great platform to show case your designer skills "},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Participants can either participate individually or as a team of two.",
+            "The participants are not allowed to use any kind of electronic devices except a calculator.",
+            "The participants are required to strictly adhere to time limit.",
+            "The event will be basically a pen and paper based event.",
+            "The participant cannot change their answers once the answers are informed to the volunteers",
+            "Teams violating the rules listed below will be disqualified.",
+            "Decision made by the judges will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"10-AM to 1-PM"},
+        {"type":"simple","text":"G 308"} ,
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"<B>“What if two and three comes before one”</B><BR>The participants will be given a picture of day-to-day usable object which they have to redesign according to the constraints given. The participants will have to justify why they choose to design the object in that way"},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"<B>“Innovation is equally important as Invention”.</b><BR>The designs of the participants will be redistributed ensuring that they don’t get their own paper. The Participants will be given a choice to improvise the idea. Incorrect proposals will have negative markings"},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"<B>“Necessity is the mother of invention” </b><BR>There will be no solutions without a problem. This round will be an auction round. The participants will be given coins based on the previous round scores. The participants will be given a daily use object and the actual problem statement for which it was created .The participant will have to bid in a given short time limit for each object and give  another valid problem statement for the same object."}  
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Sriram. R","phone":"(+91) 63800 97200"},
+        {"name":"Sumanth Dattu.V.R.K","phone":"(+91) 90006 20126"}
+    ]
+}

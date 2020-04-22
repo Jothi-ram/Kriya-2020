@@ -1,0 +1,363 @@
+.cm-container {
+  position: relative;
+  width: 550px;
+  top:30px!important;
+  height: 550px;
+  border: solid 2px aqua;
+  left: -540px;
+  -khtml-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  box-sizing: border-box;
+  background:black;
+}
+.cm-container .cm-items {
+  padding: 0;
+  margin: 0;
+  position: absolute;
+  width: 100%;
+  height: auto;
+  left: 264px;
+  top: 264px;
+  box-sizing: border-box;
+}
+.cm-container .cm-items .cm-item {
+  position: absolute;
+  list-style: none;
+  width: 150px;
+  box-sizing: border-box;
+}
+.cm-container .cm-items .cm-item.selected {
+  display: none;
+}
+.cm-container .cm-items .cm-item a {
+  font-family: ralewayR;
+  position: relative;
+  color: aqua;
+  font-size:20px;
+  padding-left: 30px;
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+  box-sizing: border-box;
+}
+.cm-container .cm-items .cm-item a:hover {
+  color: aqua;
+  padding-left: 32px;
+}
+.cm-container .cm-items .cm-item a:before {
+  content: '';
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: aqua;
+  -khtml-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+}
+
+.cm-container .cm-selected-container {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: solid 3px aqua;
+  -khtml-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  -moz-border-radius: 100%;
+  border-radius: 100%;
+  background-color: #fff;
+  right: -50px;
+  top: 225px;
+  text-align: center;
+  padding: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  box-sizing: border-box;
+}
+.cm-container .cm-selected-container .cm-selected-label img{
+  width:60px;
+  margin-top:8px;
+}
+.cm-container .cm-selected-container .cm-selected-label {
+  font-family: ralewayR;
+  height: 74px;
+  width: 74px;
+  font-weight: 700;
+  color: aqua;
+  font-size: 85%;
+  box-sizing: border-box;
+}
+.cm-button-prev,.cm-button-next
+{
+  display: none;
+}
+.cm-container .cm-selected-container .cm-selected-label span {
+  /*display: table-cell;
+  vertical-align: middle;
+  height: inherit;
+  padding-left:100px;
+  font-size: 20px;
+  width: inherit;*/
+  font-size: 20px;
+  position: relative;
+  top:-45px;
+  lefT:90px;
+
+
+}
+.cm-container .cm-selected-container .cm-button {
+  position: absolute;
+  width: 28px;
+  height: 28px;
+  font-size: 20px;
+  cursor: pointer;
+  top: 36px;
+  color: aqua;
+  -webkit-transition: all 0.2s ease-out;
+  -moz-transition: all 0.2s ease-out;
+  -o-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+.cm-container .cm-selected-container .cm-button:hover {
+  color: aqua;
+}
+.cm-container .cm-selected-container .cm-button.cm-button-prev {
+  left: -32px;
+}
+.cm-container .cm-selected-container .cm-button.cm-button-prev:hover {
+  left: -34px;
+}
+.cm-container .cm-selected-container .cm-button.cm-button-next {
+  right: -32px;
+}
+.cm-container .cm-selected-container .cm-button.cm-button-next:hover {
+  right: -34px;
+}
+
+/*addeddd*/
+@media only screen and (max-width : 767px)
+{
+    [navlogo]{
+        transform:translateY(100%)!important;
+    }
+}
+[navbutton]:hover
+{
+    cursor: pointer;
+}
+[navcirc]{
+    left:-900;
+    transition:0.5s;
+}
+[navlogo]{
+    transform:translateX(100%);
+    transition:0.3s;
+    opacity: 0;
+    width:100%;
+    height:100%;
+    position:fixed;
+    left:0;
+    right:0;
+    padding-left:400px;
+}
+[navlogo] img{
+    top:10%;
+    height:80%;
+    width:auto;
+}
+[navbutton]{
+    position:fixed;
+    top:20px;
+    right:20px;
+    z-index:1050;
+    width:50px;
+}
+.panel-title{
+    color:#6deff7;
+}
+.panel-heading{
+    background: black!important;
+}
+.panel-body{
+    color:white;
+    background: rgb(0, 0, 2);
+}
+#main{
+    transition:0.5s;
+}
+
+
+/*sing up*/
+.top:hover,.middle:hover,.bottom:hover{
+  cursor: pointer;
+}
+.top{
+  z-index: 500;
+}
+.middle{
+  z-index: 250;
+}
+.bottom{
+  z-index: 100;
+}
+.logNav .top,.logNav .middle,.logNav .bottom{
+  background: white;
+  padding:10px;
+  transition:0.3s;
+  height:50px;
+  width:50px;
+  border-radius: 50%;
+  position: fixed;
+  bottom:20px;
+  right: 20px;
+}
+
+
+[navLogoImg]{
+  position:absolute;
+  top:10px;
+  left:10px;
+  height:80px;
+}
+
+.trapezoid p{
+  position: absolute;
+  top:15px;
+  color:white;
+  z-index: 1080;
+  font-size:14px;
+}
+.trapezoid {
+    border-top: 50px solid rgb(103,0,0);
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    height: 0;
+    width: 80vw;
+    margin-left:10vw;
+    z-index: 1080;
+    overflow: hidden;
+}
+
+.opt h4{
+  font-family:roboto;
+  position:absolute;
+  top:15;
+  color:white;
+  opacity:0;
+  transform:scale(0);
+  right:70px;
+  transition:0.2s;
+}
+.opt{
+  opacity:0;
+  transform:scale(0);
+}
+@media only screen and (max-width :767px)
+{
+  .circ{
+      bottom:20px;
+  }
+}
+@media only screen and (min-width :767px)
+{
+  .circ{
+      bottom:20px;
+  }
+}
+.circ img{
+  width:100%;
+  height:100%;
+}
+.circ{
+  padding:10px;
+  width:65px;
+  height:65px;
+  position:fixed;
+  right:20px;
+  background:white;
+  border-radius:50%;
+  border:2px solid teal;
+  transition:0.3s;
+}
+.circ:hover{
+  transform:scale(1.1);
+  border:4px solid rgb(0, 190, 190);
+}
+
+
+
+/* pre loader*/
+.preloader{
+  background: black;
+  z-index:200;
+  width:100%;
+  height: 100%;
+  position: fixed;
+  top:0;
+  left:0;
+}
+@keyframes zoomClose{
+  from{transform:scale(1)}
+  40%{transform:scale(1.2)}
+  t0{transform: scale(0)}
+}
+@keyframes spin {
+  0%   {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
+.circle{
+  position: relative;
+  width:100px;
+  height:100px;
+  border-radius: 50%;
+  border:3px solid transparent;
+}
+.c0{
+  width: 100px;
+  height:100px;
+  position: relative;
+  top:-300px;
+  left: 50px;
+}
+.c0 img{
+  width:100px;
+  height:100px;
+  padding:10px;
+  
+}
+.loader{
+  position: absolute;
+  top:47%;
+  left:47%;
+}
+.c1{
+  width: 280px;
+  height:150px;
+  position: relative;
+  top:-175px;
+  left:35px;
+  border-top:3px solid white;
+  border-bottom:3px solid white;
+  animation: spin 0.75s infinite;
+}
+.c2{
+  width: 200px;
+  height:200px;
+  position: relative;
+  border-left:3px solid white;
+  border-right:3px solid white;
+  animation: spin 1s infinite;
+}
+@media only screen and (max-width : 767px){
+  .loader{
+      transform:scale(0.9);
+  }
+}
+body::-webkit-scrollbar{
+  width:0px;
+}

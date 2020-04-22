@@ -1,0 +1,66 @@
+body{
+    width:100vw;
+    overflow-x: hidden;
+}
+.filter-selector h4{
+    font-size: 14px!important;
+    display: inline-block;
+    color: white;
+    transition: 0.5s;
+    padding: 10px;
+    font-family: ralewayL!important;
+}    
+.filter-selector h4:hover{
+    cursor: pointer;
+}
+.filter-selector .active{
+    color: #fc9918;
+    border-bottom: 2px solid #fc9918;
+    outline-offset: 10px;
+}
+.filter-selector{
+    border-bottom: 1px solid white;
+    display: inline-block;
+}
+.grid{
+    margin:20px;
+}
+.cardbg:hover img{
+    transform:scale(1.1);
+}
+@keyframes navAnim{
+    from {opacity: 1;transform:scale(1);}
+    30%  {opacity: 0;transform:scale(0);}
+    50%  {opacity: 0;transform:scale(0);}
+    70%  {opacity: 0;transform:scale(0);}
+    to  {opacity: 1;transform:scale(1);}
+}
+[navbutton]{
+    transition: 0.5s;
+}
+
+@keyframes wobble {
+    0%   {transform: scale(0);}
+    25%  {transform: scale(1.4);}
+    50%  {transform: scale(0.9);}
+    75%  {transform: scale(1.1);}
+    100% {transform: scale(1);}
+}
+[modal]::-webkit-scrollbar{
+    width:0px;
+}
+[pageTitle]{
+    margin-top:30px;
+    color: white;
+    font-family: Cinzel;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 400;
+    font-size: 34px;
+}
+@media only screen and (max-width : 767px){
+    [pageTitle]{
+        font-family: Cinzel;
+        margin-top:100px;
+    }
+}

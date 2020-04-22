@@ -1,0 +1,57 @@
+
+{
+    "root":[
+        {"type":"title","text":"PREZENTA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Stress, heat, flows, tools, lean; Is that all that maketh a mechanical engineer? If you are one such aspirant with a negatory reply, this one is for you. Team Kriya presents you ‘Prezenta’, a paper presentation event that encourages young minds of the mechanical engineering academia to come up with new technology, research ideas and innovation in their fields of interest and present it in a platform where the right recognition will be given."},
+        {"type":"subsubtitle","text":"<center>All you need is a bit of curiosity and a lot of presentation skills.</center>"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"subsubtitle","text":"Fluid & Thermal"},
+        {"type":"list","text":[
+           "Fluid Power",
+           "Energy efficiency",
+           "Renewable energy"
+        ]},
+        {"type":"subsubtitle","text":"Design"},
+        {"type":"list","text":[
+           "Green Design",
+           "Machine / Product Design",
+           "Advanced Materials"
+        ]},
+        {"type":"subsubtitle","text":"Manufacturing"},
+        {"type":"list","text":[
+           "Manufacturing of Composites",
+           "Automated Manufacturing"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "The abstract must be submitted within the specified deadline (13-02-2020). The abstract must be of about 250 – 300 words.",
+            "The selected participants must make themselves available on the day of the event on time.",
+            "Each presentation must be of ppt or pdf format and must not exceed 12 slides.",
+            "The font size for the headings is 24 and 20 for other details.",
+            "The time limit for each presentation is 10 minutes and 2 minutes will be given for doubt clarification.",
+            "The participants are asked to present their own work or the work in which they have part contribution.",
+            "If plagiarism is found, then the particular paper will be immediately disqualified from the event.",
+            "Decision of the judges is final.",
+            "All the abstracts must be sent to <a href='mailto:prezentapsgkriya@gmail.com'>prezentapsgkriya@gmail.com</a></b>"
+        ]},
+
+        
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 308"}
+
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"Melvin Antony Raj B","phone":"(+91) 94456 56136"},
+        {"name":"Suriya Narayanan D","phone":" (+91) 90802 95459"}
+    ]
+}

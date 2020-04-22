@@ -1,0 +1,43 @@
+@keyframes spin {
+    0%   {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+}
+
+@keyframes fadeDance {
+    0%   {opacity: 1;}
+    25%   {opacity: 0.95;}
+    50%   {opacity: 0.85;}
+    100% {opacity: 1;}
+}
+@keyframes widthIn {
+    0%   {width: 0%;}
+    100% {width: 100%;}
+}
+@keyframes widthOut {
+    0%   {width: 100%;}
+    100% {width: 0%;}
+}
+@keyframes fadeIn {
+    0%   {opacity: 0;}
+    100% {opacity: 1;}
+}
+@keyframes fadeOut {
+    0%   {opacity: 1;}
+    100% {opacity: 0;}
+}
+@keyframes zoomIn {
+    0%   {transform: scale(1);}
+    100% {transform: scale(1.1);}
+}
+@keyframes zoomOut {
+    0%   {transform: scale(1.1);}
+    100% {transform: scale(1);}
+}
+@keyframes keyflipX {
+    0%   {transform: rotateX(0deg);}
+    100% {transform: rotateX(360deg);}
+}
+@keyframes keyflipXback {
+    0%   {transform: rotateX(360deg);}
+    100% {transform: rotateX(0deg);}
+}

@@ -1,0 +1,42 @@
+
+{
+    "root":[
+        {"type":"title","text":"RESPONSIVE WEB DESIGN"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Responsive Web Design is the approach that suggests that design and development of a website should respond to the user’s behaviour. The design should adopt to the environment based on screen size, platform and orientation.<BR>    Participants will gain hands on experience on Responsive Web Design"},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>9:00 AM – 10:45 AM</b> - Session 1",
+            "<b>10:45 AM – 11:15 AM</b> - Break",
+            "<b>11:15 AM – 1:00 PM</b> - Session 2",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually"
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 500/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"2-PM to 5-PM"},
+        {"type":"simple","text":"MCA CC LAB"}
+    ],
+        "contact":[
+        {"name":"DAKSHIN SARAVANAN K","phone":"(+91) 90805 53461"},
+        {"name":"VIVEK G","phone":" (+91) 73971 56634"}
+    ]
+}

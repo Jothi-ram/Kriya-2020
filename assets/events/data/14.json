@@ -1,0 +1,34 @@
+{
+    "root":[
+        {"type":"title","text":"CODE2DUO"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<BR>Are you code-blooded? Then here’s an event, code2duo to revive the geek coder in you. The event comprises of two unique rounds to challenge your debugging and blind coding skills. <BR><BR>“Where there’s code, there’s always bug” thus get ready to gear up the detective in you, to fix the bug in your own case. On the other hand, blind coding is to try it out in small bits and build on what works best!<BR><BR>The event is language independent and participants are free to code in any of the 4 languages – C, C++, Python and Java"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Round one will be a set of 20 multiple choice questions, 10 debugging questions. This round will be only from C language and is a pen and paper round. ",
+            "Round two isa hands-on round in which, a set of 5 outputs will be given to the participant and should code for given problem, with MONITOR OFF.",
+            "At the beginning of round two, each team is given 100 points.",
+            "They can switch on during compiling and running. Participants whose code gets executed will be given higher preference. ",
+            "In case if it’s needed to switch on the monitor during coding, for every 1 minute of MONITOR ON while coding will fetch a negative mark.",
+            "Second preference will be given to code with least no of errors. ",
+            "The participant with highest cumulative round point will be considered as the winner.",
+            "Both rounds should be completed within the allotted time.",
+            "'Mobile phones and internet usage are strictly prohibited.",
+            "Decision of the judges would be final.",
+            "Participants are requested to bring the Bank account details (Bank Name, Branch, Account holder name, Account number, IFSC Code) for crediting the prize amount"
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"10-AM to 3:30-PM"},
+        {"type":"simple","text":"Y 201 & MEDICAL INFORMATICS LAB"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"MELVIN.M","phone":"(+91) 63818 87261"},
+        {"name":"KATHY JESSICA.P ","phone":"(+91) 99401 06697"}
+    ]
+}

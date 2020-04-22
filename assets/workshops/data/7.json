@@ -1,0 +1,48 @@
+
+{
+    "root":[
+        {"type":"title","text":"PRESENTISTA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"As Steve Jobs rightly said, 'Innovation distinguishes between a follower and a leader.’ Here we are providing you the perfect platform to showcase your leadership skills! Design the most elegant ideas and practical solution to a problem in the fields mentioned below as bright minds require a pedestal to portray, the KRIYA2K20 offers you this dynamic opportunity to do so and get  a chance to win exciting prizes!"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Energy Analytics",
+            "Special Machine Drives",
+            "Efficient Digital System Design",
+            "IoT in Consumer Electronics",
+            "Signal Processing",
+            "Power electronics and it’s applications",
+            "Wireless Power Transmission"]},
+        {"type":"subsubtitle","text":[
+            "Subjects necessarily need not to be confined within the above."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Send your paper (IEEE format in PDF form) to <a href='mailto:presentista2k20psgkriya@gmail.com'>presentista2k20psgkriya@gmail.com</a>",
+            "Last date for sending the abstract is 13/02/2020, Shortlisted participants will be intimated within 15/02/2020.",
+            "The papers will be judged based on objectives, methodology, findings and analysis, conclusion, implication/application/limitation.",
+            "Decision of the judges would be final.",
+            "The paper should be brief containing at most 300 words and citing the references is mandatory.",
+            "Best few teams will be selected and would be invited to present.",
+            "The teams have to submit their Hard copy of the paper on that day of the event.",
+            "The presentation (of the shortlisted participants) should last a maximum of 10 minutes. This will be followed by a 5 minutes Q & A session."
+        ]},
+        
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 3"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"EB SEMINAR HALL"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"KIRUBA THOMAS M","phone":"(+91) 73586 05231"},
+        {"name":"BHUVANESWARI A V","phone":" (+91) 78456 16787"}
+    ]
+}

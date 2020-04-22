@@ -1,0 +1,34 @@
+{
+    "root":[
+        {"type":"title","text":"SNIPPET-HUNT"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"The ultimate combat of competence, the leap of learning that will be a lesson for life, those middle-of-the-crowd Eureka moments. Snippet hunt has it all. Do you believe that you are a person who could multitask?<BR>Then this event is for you.  This event consists of 2 rounds.<BR><BR>Round 1 is a great arena to prove your talent along with your patience where every single team solves mind boggling questions racing against time.<BR><BR>Round 2 will test your coding skills along with your creativity and how well you know what you are supposed to do."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Each team can contain a maximum of 2 members.",
+            "The eliminated teams cannot proceed further.",
+            "The judge’s decision would be considered final.",
+            "No team should discuss with the others.",
+            "No mobile devices can be used inside the event arena."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 1-PM"},
+        {"type":"simple","text":"CC LAB CSE"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1 PRELIMS"},
+        {"type":"simple","text":"Prelims round is RACE AGAINST TIME. This round test the wit of the participants by encouraging them to answer question and solve puzzles in the areas of general knowledge, technology, and entertainment. First each group will be given 25 questions in 30 minutes. If they have some time left, they can request for additional questions for bonus but beware there will be a negative marking for each wrongly answered questions."},
+        {"type":"subsubtitle","text":"ROUND-2 FINAL"},
+        {"type":"simple","text":"The second and the final round of the event is of a different type as includes a concoction of different types of questions. This round is further sub divided into three stages. The model of this round is as follows,<BR><BR> First Stage: One question is given, which has to be solved with a program code which produces correct output which will act as a hint to the second question. Upon completing the second question with the correct output, the person moves on to the fun question of the first stage.<BR><BR> Fun Question: A general riddle/puzzle is given to the team which has to be solved to move on to the next stage of the round.<BR><BR> Second Stage: Third question is given, which has to be solved with a program code which produces correct output which will act as a hint to the fourth question. Upon completing the fourth question with the correct output, the person moves on to the fun question of the second stage.<BR><BR> Fun Question: A image is shown to the team and the team based on their understanding of the image has to use the correct keywords to search the internet for the exact image shown to get it and show the image.<BR><BR> Third Stage: The last and fifth question is given, which has to be solved with a program code which produces correct output. Upon completing the last question with the correct output, the person moves on to the fun question of the third stage.<BR><BR> Fun Question: The player is given a chess board paper with coins on every square and is given a knight which can move only in L-shape. The player can start from any square and collect as many as coins possible and come to the same square started with."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"S. SHAHEER DAWOOD","phone":"(+91) 98948 57789"},
+        {"name":"M. RIDHU VARSHINI","phone":"(+91) 96299 68150"}
+    ]
+}

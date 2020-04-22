@@ -1,0 +1,57 @@
+
+{
+    "root":[
+        {"type":"title","text":"INDUSTRIAL AUTOMATION"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Industrial Automation is now a blooming and thriving sector. Thus, it is only filling to equip ourselves with the skills required to make Industrial Automation a possibility. One of the backbones of Industrial Automation is the robots which include various pick and place conveyor mechanisms. They have become an integral part of the current day factory environment. Thus, the first part of the workshop aims to give you an idea about the functions of these systems using scaled working models at our laboratory. Also, one of the advantages of automation is that it allows for easy collection of a huge amount of operational data. The collected data can be analysed to arrive at various useful inferences and this requires that data to be uploaded to the cloud in real time. Therefore, the second part of the workshop will help you to unwrap the ideas behind uploading various sensor data to the cloud using IOT kits."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>9:00 AM – 10:30 AM </b> - Session 1",
+            "<b>10:30 AM – 10:45 AM </b> - Break",
+            "<b>10:45 AM – 12:15 PM</b> - Session 2",
+            "<b>12:15 PM – 1:15 PM</b> - Lunch Break",
+            "<b>1:15 PM – 4:00 PM</b> - Session 3",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"SESSION WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":"SESSION 1:"},
+        {"type":"list","text":[
+            "This session aims to give a description about  Industrial Automation. The evolution of Industry 4.0 and a brief about the components used for Industrial Automation is discussed."
+        ]},
+        {"type":"subsubtitle","text":"SESSION 2:"},
+        {"type":"list","text":[
+            ": This session gives a detailed theory on Robots which include various pick and place conveyor mechanisms. Also, this session gives the description on functions and applications of these robots."
+        ]},
+        {"type":"subsubtitle","text":"SESSION 3:"},
+        {"type":"list","text":[
+            "This part of the workshop gives a hands-on experience about the functions of these systems using scaled working models at our RANE laboratory."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 500/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"Y-401 & RANE LAB"}
+    ],
+        "contact":[
+        {"name":"ARVIND M","phone":"(+91) 88389 51826"},
+        {"name":"MOHAMED MOHSSEN","phone":" (+91) 9597782188"}
+    ]
+}

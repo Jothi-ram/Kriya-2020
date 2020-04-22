@@ -1,0 +1,59 @@
+
+{
+    "root":[
+        {"type":"title","text":"TECHx"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"TECHxis a Paper Presentation event to show case your ideas on a competitive platform in the form of well intriguing presentation. Its trives to explore the inquisitiveness in the field of Electronics and Communication Engineering by giving young minds their incredulous ideas a definitive direction. “Everytime you present a paper, you learn something new”. It provides you an opportunity to learn in detail about a core subject and develop effective presentation skills. It is a great chance to share knowledge as well as expand your knowledge. Showcase your savvy ideas before our professional critics to make the world know who you are!"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Li-Fi Technology",
+            "Wearable Biosensors",
+            "Agricultural Robotics",
+            "Block chain in Electronics and Communication",
+            "Wi-MAX Technology",
+            "Wireless Power Transmission Technology",
+            "Humanoids",
+            "Automation in Industries",
+            "Electronic Control Unit(ECU)",
+            "Embedded Technology",
+            "Artificial Intelligence in Robotics"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"ROUND 1"},
+        {"type":"list","text":[
+            "Send your abstract (IEEE format in PDF form) to <a href='mailto:techxpsgkriya@gmail.com'>techxpsgkriya@gmail.com</a>",
+            "Last date for sending the abstract is 15/02/2019, Shortlisted participants will be intimated within 17/02/2019.",
+            "Abstract must contain less than 200 words"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2"},
+        {"type":"list","text":[
+            "The selected abstracts can present their paper to the panel of judges.",
+            "Working models and simulation would fetch extra points",
+            "The papers will be judged based on objectives, methodology, findings and analysis, conclusion, implication/application/limitation.",
+            "Paper must be strictly in IEEE format.",
+            "Decision of the judges would be final.",
+            "The paper should be brief containing at most 500 words and citing the references is mandatory.",
+            "The teams have to submit their Hard copy of the paper on that day of the event.",
+            "The teams are requested to bring softcopy of both paper and PPT in pendrive.",
+            "The presentation should last a maximum of 8 minutes. This will be followed by a 2 minutes Q & A session.",
+            "Participants are requested to bring the Bank account details (Bank Name, Branch, Account holder name, Account number, IFSC Code) for crediting the prize amount"
+        ]},
+        
+        
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 3"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 1-PM"},
+        {"type":"simple","text":"F 202"}
+
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"K.ABILLASH","phone":"(+91) 97874 73117"},
+        {"name":"R.ROSHAN","phone":" (+91) 77080 29505"}
+    ]
+}

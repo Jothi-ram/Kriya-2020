@@ -1,0 +1,39 @@
+{
+    "root":[
+        {"type":"title","text":"Robot_Hacker"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Twist and squeeze your brains in this clash of digital gates that tick inside CPUs building your way to the mastery of coding them gates that tick inside CPUs. Pass this to arrive at solving robot configurations and implement them. Test your digital electronics and robotic puzzles that seems simple yet confuses you to the end. Prove the world, the coding guru you are to the world by mastering the questions that come your way."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "No use of internet or mobile phones",
+            "Finish the round within the given time.",
+            "Entrance to the next round depends on the time used and the responds given.",
+            "The decision made by the judges will be final",
+            "Participants are required to bring their own laptops for round 2 with a c/c++/python compiler installed."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 502"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"This covers the basics of digital electronics with MCQs and questions ,giving a basic coverage of digital electronics."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"list","text":[
+            "This tests coding skills finding a algorithm for the given problem and typing out a c/c++/python code for it .",
+            "The problem will be a robot configuration for which the students will have to model the problem mathematically, derive expressions for the same and transform them into code using c /c++/python.<BR>Limited laptops will be present, whose access will be granted on a first come basis.",
+            "Limited time will only be allotted, after which they forfeit their access and will stake a claim again for access."
+        ]}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"3"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Jayasuriya Suresh ","phone":"(+91) 7639536663"},
+        {"name":"Arun N","phone":"(+91) 88702 89222"}
+    ]
+}

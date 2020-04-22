@@ -1,0 +1,33 @@
+{
+    "root":[
+        {"type":"title","text":"ORNAMENTO & STITCH"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"This event provides a platform to show your creative artistic skills in the fabrics using different surface embellishment and ornamentation techniques."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Entries will be done on spot.",
+            "All necessary materials required for surface ornamentation will be provided.",
+            "Decision of the judge will be the final and changes will not be done further."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"1-PM to 4-PM"},
+        {"type":"simple","text":"G 303"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"The first round will be a written quiz with 25 questions."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"After the 1st round, Theme will be provided on spot for which surface embellishment has to be completed in a total span of 90 minutes."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Rubika .E","phone":"(+91) 88709 63025"},
+        {"name":"Vivek .G","phone":"(+91) 85269 86639"}
+    ]
+}

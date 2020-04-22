@@ -1,0 +1,77 @@
+{
+    "root":[
+        {"type":"title","text":"TECHNOTHRONES"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"“Because in your creativity, every detail matters. Think like a connoisseur, befit like an artiste.”<BR><BR>Technothrones the event that makes you come up with new ideas regarding Problem solving, Marketing, Creativity, General knowledge and enhance your skillset. This event encourages the participants to build their team spirit and enhance their soft skills."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A team of 2 people is encouraged to enroll in the event.",
+            "Event consists of 4 rounds, all 4 events will be conducted parallel.",
+            "Usage of cell phone for preparation is not allowed.",
+            "Usage of Internet is strictly prohibited.",
+            "Participants have to attend all the events or else their marks will not be considered for the result.",
+            "Cumulative points of all the 4 events will be taken for the results.",
+            "Once the mark is allocated by the judges, the marks will not be changed.",
+            "Once team formed cannot be changed or else you will be disqualified."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 4 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1 (QUIZ)"},
+        {"type":"list","text":[
+            "A team of 2 members are allowed to participate.",
+            "Time allotted for each question depends on each round.The maximum time allotted for each question is 1.5 minutes.",
+            "The questions will be both technical and generic.",
+            "Depending on the scores in each round ,the teams will be awarded with points. ",
+            "A4 sheets will be provided .",
+            "There are three levels in the quiz.viz., easy,medium,hard.",
+            "Each team would have to answer atleast 20 questions correctly out of 30 questions to proceed to medium level. Time allotted for easy level is 7 minutes.",
+            "Each team should answer atleast 30 questions correctly out of 40 questions that are provided inorder to proceed to the hard level. Time allotted for this level is 15 minutes.",
+            "Each question answered correctly in the above two levels will be awarded 1 point. Based on the points obtained, the teams will be pushed to the next level.",
+            "The third round will be the major quiz and will be conducted using PPT. The points obtained in this round will be considered for the cumulative scoring."
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2  (MARKETING EVENT)"},
+        {"type":"list","text":[
+            "The product should be taken from the Lot given to the Participants.",
+            "Time allotted is 4 mins for a product.",
+            "In that  4 mins, 2.5 mins is allotted for preparing advertisement kind of sketch in A4 Sheet and rest 1.5  mins will be for marketing the product.",
+            "Depending on the neatness of the sketch and how they convince us to buy the product , they will be evaluated.",
+            "A4 sheets will be provided."
+        ]},
+        {"type":"subsubtitle","text":"ROUND-3 (6 CHANCES)"},
+        {"type":"list","text":[
+            "Each participant will be first made to choose between mechanical and circuitry stream to proceed with the event.",
+            "The task is to find the word (related to the chosen stream).",
+            "There will be a number of blank spaces equal to the number of letters in the word. ",
+            "The participant will be made to call out an alphabet at random.",
+            "If the chosen alphabet is in the word, the appropriate blank space will be filled with the alphabet.",
+            "If the chosen alphabet is not in the word, the participant loses a chance.",
+            "Totally five such words have to be found to complete the task with the maximum of 6 chances for each word.<BR><b>Clues will not be provided.!</b>"
+        ]},
+        {"type":"subsubtitle","text":"ROUND-4 FUSE MASTER"},
+        {"type":"list","text":[
+            "A technical term will be depicted using two or more images.",
+            "Participants (2 per team) will first choose their domain from the following",
+            "Software",
+            "Mechanical",
+            "Electrical",
+            "General (eg.monumentname, personality ,etc..)",
+            "30 seconds will be provided for each question.",
+            "30 questions will be given out of which at least 20 must be answered to proceed with the next level.",
+            "On failing to answer atleast 20 questions correctly in this round , the points will not be considered for cumulative scoring.",
+            "One clue will be given for each question."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 501"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Dharshanath D","phone":"(+91) 83006 26553"},
+        {"name":"Kesava chandran V","phone":"(+91) 83007 81499"}
+    ]
+}

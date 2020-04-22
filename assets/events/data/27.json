@@ -1,0 +1,42 @@
+{
+    "root":[
+        {"type":"title","text":"MATRICKS"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"If you have a strong interest in the field of Matlab, this event tests your coding skills through various questions which bring out the best of you! Also this event tests your  problem solving skills by providing you complex problems which could be solved through various algorithms listed! There is also a Digital Signal Processing round which helps the participants to apply the concepts they learned, in the real world!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "A team must consist of two participants only.",
+            "Participants are not allowed to use mobile phones.",
+            "The tasks must be completed within given time.",
+            "The decision regarding the results taken by the judge is final."
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"This round tests the basic programming knowledge of the participants in Matlab. The participants are provided with 10 basic programs which they have to solve and show the output  within a time span of 1 hour and 50 minutes. The top 20 teams are qualified for the next round."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"The top 10 teams qualifying the rounds are selected for round 3. In round 2 the participants are  given an image in which they have to do a variety of tasks in Simulink based on the concepts related to  Digital Image Processing. This round has a time span of 1 hours 15 minutes."},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"The third round consists of  solving the below mentioned questions. The Team can select the question with lot system. And they have to solve the question within 1 hour 30 minutes."},
+        {"type":"list","text":[
+            "Solving the given  sudoku puzzle using recursive Back-tracking algorithm in matlab.",
+            "Finding the shortest path of the given maze using floodfill algorithm in matlab",
+            "Using EM(expectation maximization) algorithm for solving gaussian mixture model matlab",
+            "Dinic’s algorithm for maximum flow in matlab",
+            "Rabin karp algorithm for solving word puzzles in matlab."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"I&C DEPT UG LAB"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Gowtham Balaji. K","phone":"(+91) 75989 47929"},
+        {"name":"Haneesh.T","phone":"(+91) 79040 75383"}
+    ]
+}

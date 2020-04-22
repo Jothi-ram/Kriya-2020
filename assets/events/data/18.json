@@ -1,0 +1,33 @@
+{
+    "root":[
+        {"type":"title","text":"TOP CODER"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"The best programmers are not marginally better than merely good ones. They are an order-of-magnitude better, measured by whatever standard: conceptual creativity, speed, ingenuity of design, or problem-solving ability. Here is a platform to put forth your coding head and to elect yourself in the faction of best programmers."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Participants must be a team of 2.",
+            "Plagiarism is discouraged.",
+            "The decision of the judges stays final.",
+            "Use of any unfair means whatsoever shall result in disqualification."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"CC LAB CSE"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"MCQs and some easy coding problems to test the basic coding skills of participants."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"It is a typical coding round wherein the participants are provided with the problems. They have to program according to provided specifications in a given time and come up with efficient solutions. This round consists of two phases, coding phase (1.5 hrs) and hacking phase (30 minutes). In the hacking phase, the contestants are allowed to view solutions of other participants and try to find a fault or a test case for which the solution will fail (hacking). Appropriate points will be awarded for each hack."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Sanjay Seetharaman","phone":"(+91) 97907 84201"},
+        {"name":"Dhikshita Ram","phone":"(+91) 77708 03612"}
+    ]
+}

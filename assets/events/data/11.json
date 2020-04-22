@@ -1,0 +1,36 @@
+{
+    "root":[
+        {"type":"title","text":"ARTISTRY"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Do crazy thing which is hard to imagine! Create your own visual style let it beunique for yourself and yet identifiable for others. Creativity is making your ownversion. With a good photo and creativity, you can easily turn your pictures into wonder. Do a little dig up and find the right one. Grow your skills!! Find your creativity!! And, set yourself up for success!!!."},
+        {"type":"subtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Cognitive Computing",
+            "Artificial Intelligence in Customer Experience",
+            "Extended Reality",
+            "Edge Computing"
+        ]},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Send your .jpeg file along with original .psd or .ai file to this email <a href='mailto:aartistrypsgkriya@gmail.com'>aartistrypsgkriya@gmail.com</a></b>",
+            "Event starts on 12/02/2020, last date for sending .jpeg file is 18/02/2020, after that we won’t accept it.",
+            "Pictures will be posted on our Instagram page on 18/02/2020 and likes till 20/02/2020will be taken for evaluation.",
+            "The participants will be given a topic, they have to photoshop based on the topic given to them.",
+            "Editing tool such as Photoshop, Illustrator should be used.",
+            "Upload the .psd file or .ai file and image (.jpg) to our mail.",
+            "Shortlisted images will be uploaded on our Instagram page or Facebook page.",
+            "The image with maximum likes in social media and based on few evaluations done in .psd file will be declared as the Winner.",
+            "If photo is found to be plagiarised, it will be disqualified."
+        ]}
+
+        
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"Nanthagopal S","phone":"(+91) 89409 18732"},
+        {"name":"Gowtham S P","phone":"(+91) 90873 23059"}
+    ]
+}

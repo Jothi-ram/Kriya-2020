@@ -1,0 +1,49 @@
+
+{
+    "root":[
+        {"type":"title","text":"TECKSHETRA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"It is an opportunity to showcase your ideas on an unique and massive platform in the form of well integrated and intriguing presentation. It strives to explore inquisitiveness of young minds by giving their incredulous ideas. Send your abstract to <a href='mailto:teckshetrapsgkriya@gmail.com'>teckshetrapsgkriya@gmail.com</a> on or before 13.02.2020. The short listed candidates would be informed on 15.02.2020"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Biomimetic fibres",
+            "Challenges in  Man-made fibre manufacturing",
+            "Technical fabrics for Automotive",
+            "Technical fabrics for Packaging",
+            "Medical Non—Woven",
+            "Active wear Textiles",
+            "Textile Industry 4.O",
+            "SWOT Analysis of Indian Textile industry",
+            "Seamless garments: Challenges & Innovations",
+            "Automations in Apparel Industry"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "The paper should strictly follow standard IEEE two-column format (the format can be downloaded from the internet).",
+            "A Team should consist of maximum of two members.",
+            "Abstracts should contain maximum of one page.",
+            "Only participants who qualify in the preliminary abstract submission round shall be eligible for the final presentation. ",
+            "Presentation should not exceed 7mins.",
+            "Qualified candidates are requested to bring along with them one soft copy.",
+            "The decision of the judges shall be treated as final."
+        ]},
+        
+
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 2"},
+        {"type":"simple","text":"Minimum: 1"},
+
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"K 410 (TEXTILE SEMINAR HALL)"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"K.Thirunavukarasu","phone":"(+91) 75022 70488"},
+        {"name":"J.Sathish","phone":" (+91) 95004 43364"}
+    ]
+}

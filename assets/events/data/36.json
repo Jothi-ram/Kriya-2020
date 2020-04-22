@@ -1,0 +1,36 @@
+{
+    "root":[
+        {"type":"title","text":"FLASH MATH"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<BR><b>“Quench your thirst for Maths!!!”<BR>“Remember your basic math? Try to apply it here!”</b><BR>An event that brings out your creative ideas, thirst for the clues and that will unleash your potential. Compete with your fellow mates to prove yourself by cracking the problems and take home exciting prizes!!!<BR>“If people don’t believe that mathematics is simple, it is only because they don’t realize how complicated life is!!”"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Mobile phones and other electronic gadgets should not be used.",
+            "Team of  two is permitted.",
+            "Judge’s decision will be final.",
+            "Participants for the final round will be selected on the basis of their performance in both the first and second round."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G 304,305"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1 MENTAL MATH"},
+        {"type":"simple","text":"         Test your response time!<BR>Challenge your opponents!<BR>Sustain yourself in the game!<BR>It’s a simple pen and paper based round to test your fundamentals in aptitude, the round will last for 45 min. The soon you complete the more you score in this round"},
+        {"type":"subsubtitle","text":"ROUND-2 CONNECTIONS"},
+        {"type":"simple","text":"Track the answers with the hidden math clues. It tests the ability to solve problems, the ability to relate things and improves the team building skills. Put on your detective glasses and hunt for the clues.<BR>Combine the images projected to obtain a mathematical term"},
+        {"type":"subsubtitle","text":"ROUND-3 FAST FINGERS FIRST"},
+        {"type":"simple","text":"Participants will be given individual questions to be solved and the solution of both serves as a password to unlock the laptop wherein, the participants will be given another question to be solved. Be quick because every second matters in this round"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"VIKAASH P","phone":"(+91) 99443 61737"},
+        {"name":"ARVINDVAIBHAV RS","phone":"(+91) 88701 91113"}
+    ]
+}

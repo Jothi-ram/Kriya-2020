@@ -1,0 +1,33 @@
+{
+    "root":[
+        {"type":"title","text":"CAPTURE THE FLAG"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"“If you give a hacker a new toy, the first thing he'll do is take it apart to figure out how it works”. Well, this is exactly what you have to do in this event. You will be given a set of questions which requires skills like encoding, decoding, hashing and how websites work. Don’t worry, you will be provided with internet and you are free to browse any topics you want about the questions."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Internet can be used for finding the solutions.",
+            "The participants should be able to complete the questions within the given time",
+            "No extra time will be provided.",
+            "Discussion with other teams is not allowed.",
+            "Judges decisions will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"IT MAIN LAB-1"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of just a SINGLE round."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"You will be given with a set of questions. You can answer the questions using Internet. The questions will be of encoding, decoding, hashing etc,.<BR><BR><BR><BR>“NO RESTRICTIONS ON ACCESSING INTERNET AND USING MOBILE PHONES, ONLY THING IS CRACK THE QUESTIONS WITH ALL THESE RESOURCES” <BR>IT IS AN OPEN CHALLENEGE!!"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"VISHNUVARDHAN .S","phone":"(+91) 88259 96026"},
+        {"name":"LAKSHANA L S","phone":"(+91) 88259 78759"}
+    ]
+}

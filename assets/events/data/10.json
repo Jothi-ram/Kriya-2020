@@ -1,0 +1,58 @@
+{
+    "root":[
+        {"type":"title","text":"AQUA JET"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Aqua Jet, an entertaining event that requires both interest and skills in fabrication with a basic knowledge in aerodynamics, whereby one has to build plastic soft drink bottle that thrust water as a result of pressurized air to propel the rocket upwards."},
+        {"type":"subtitle","text":"ROUND WISE DESCRIPTION"},
+        {"type":"subsubtitle","text":"The event will consist of 2 rounds."},
+        {"type":"simple","text":""},
+        {"type":"subsubtitle","text":"ROUND 1 (RANGE TEST):"},
+        {"type":"list","text":[
+            "The range of the rocket is tested and it has to travel a minimum of 80m.",
+            "This round is eliminative whereby, only the top teams will proceed to the next stage.",
+            "Points to be awarded according to the following relation:",
+            "<b>Total points = range (in metres)/5</b>",
+            "9 AM - 12 PM"
+        ]},
+        {"type":"subsubtitle","text":"ROUND 2 (NO RUSH - REACH THE TARGET):"},
+        {"type":"list","text":[
+            "This round tests the stability of rocket.",
+            "Two chances will be provided for launching the rocket.",
+            "There will be three circular regions in the arena, having  P  points  for hitting,",
+            "1. Region A  (4 meter radius region): P=50 points",
+            "2. Region B  ( 6 meter radius region): P=25 points",
+            "3. Region C ( 8 metre radius region): P=15 points",
+            "Otherwise  = No points",
+            "<b>Total points = P+ (10 x Time taken)</b>",
+            "1 PM - 3 PM"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"list","text":[
+            "Water rocket can be designed with multiple stages. Parachute and other booster mechanisms are allowed.",
+            "Participants should use only identically designed water rocket for same round. But for different round they can use different water rocket.",
+            "Two chances will be provided to each team and best of two will be accounted.",
+            "The teams will be disqualified if model is found dangerous in anyway.",
+            "Participants should not use any electrical components and explosives which will lead to disqualification.",
+            "The rocket should be made only with plastic aerated soft drinks bottles with maximum capacity of 2.5L and should be free of failures and defects. Total volume of the rocket should not be greater than 2.5L.",
+            "Participants should have their own launch pads/launcher and sharing of launch pads with other teams will lead to disqualification.",
+            "Maximum pressure supported 60psi.",
+            "Marks will also be based on Neatness and uniqueness of Design.",
+            "Incase of tie, time taken will also be considered.",
+            "The foot pump provided will be compatible with common bicycle valves only and participants must use only the provided foot pump.",
+            "Decision of judge is final."
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 3-PM"},
+        {"type":"simple","text":"N BLOCK GROUND"} 
+    
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"2"},
+        {"type":"Maximum","val":"2"}
+    ],
+    "contact":[
+        {"name":"S.G.TAMILINIYAN","phone":"(+91) 96296 58365"},
+        {"name":"Muthu avinashi","phone":"(+91) 73730 10211"}
+    ]
+}

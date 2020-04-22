@@ -1,0 +1,53 @@
+
+{
+    "root":[
+        {"type":"title","text":"PAPERIA PRESENTA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"In this competitive world – one of the important qualities to have, in business, or in any other field to move ahead swiftly – is the ability to present well.The paper presentation is where the students can share their knowledge and improvise their communication skill. This platform has been set to listen to your words. Speak clearly, if you speak at all. Prepare a presentation and unleash the speaker in you to grab exciting prizes!"},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Evolution and improvement of ARM architecture.",
+            "Humanoid robots.",
+            "Artificial intelligence on expert systems.",
+            "Wireless instrumentation.",
+            "RFID tags.",
+            "SCADA systems.",
+            "Tizen Operating system.",
+            "Fuzzy logic control for complex systems.",
+            "Flexible electronic skin."
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "The decision of the judges will be final and will not be subjected to any further discussions",
+            "Abstract sent after deadline will not be accepted on any cause."
+        ]},
+        {"type":"subsubtitle","text":"ROUND WISE DESCRIPTION OF THE EVENT"},
+        {"type":"list","text":[
+            "Team can have a maximum of 3members(minimum 2 members).",
+            "You are free to select topics from the list of general ideas listed.",
+            "Participants should send an abstract.",
+            "The abstract should not exceed 200 words.",
+            "Selected teams after scrutiny will be intimated through their respective mail id.",
+            "Details of the team members: Name, Department, Email id, Contact Number and Institution name should be sent along with abstract/video.",
+            "Deadline for submission: On or before 10/02/2020",
+            "Mail Id <a href='mailto:paperiepresenta@gmail.com'>paperiepresenta@gmail.com</a>"
+        ]},
+    
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 3"},
+        {"type":"simple","text":"Minimum: 2"},
+
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 3:30-PM"},
+        {"type":"simple","text":"G-308"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"SandraFaustina P","phone":"(+91) 96551 99918"},
+        {"name":"Ilakya S","phone":" (+91) 790451 1274"}
+    ]
+}

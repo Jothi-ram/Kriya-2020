@@ -1,0 +1,46 @@
+
+{
+    "root":[
+        {"type":"title","text":"AUTOZEST"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Autozest is an integrated creation of an idea held as a technical paper presentation competition organized by <i>Automobile Engineering Association (AEA)</i>. Presenting your idea as a presentation needs good technical and presentation skills which helps to show your hidden talent in this good platform. Register online and make your presentation ready before coming to the event. Integrate your idea and exhibit your talent."},
+        {"type":"subsubtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "Innovation in automotive materials",
+            "Alternate energy for automobiles",
+            "V2X Technology",
+            "Remedies to boom Indian automotive industry",
+            "Electric and Hybrid vehicle technologies",
+            "Effect of BS6 emission norms",
+            "Battery management system in EVs",
+            "Automotive acoustics"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Send your paper (IEEE format in PDF form) to <a href='mailto:autozestpsgkriya@gmail.com'>autozestpsgkriya@gmail.com</a></b>",
+            "Last date for sending the abstract is 13/02/2020, shortlisted participants will be intimated within 15/02/2020.",
+            "Each presentation should be in ppt or pdf format and should not exceed 15 slides.",
+            "The papers will be judged based on its objectives, methodology, findings and analysis, conclusion, implication/application and limitation.",
+            "If plagiarism is found, the respective paper will be disqualified from the event.",
+            "Decision of the judge would be final.",
+            "Citing the references used in the paper is mandatory",
+            "The teams have to submit their hard copy of the paper on that day of the event.",
+            "The presentation (of the shortlisted participants) should last a maximum of 15 minutes."
+        ]},
+        {"type":"subsubtitle","text":"Team Size"},
+        {"type":"simple","text":"Maximum: 4"},
+        {"type":"simple","text":"Minimum: 2"},
+
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 407"}
+    ],
+    "date":"",
+    "time":"",
+        "contact":[
+        {"name":"Thamizharasan R M R","phone":"(+91) 90807 92235"},
+        {"name":"Syed Shanavas S R","phone":" (+91) 90805 40703"}
+    ]
+}

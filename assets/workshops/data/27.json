@@ -1,0 +1,54 @@
+
+{
+    "root":[
+        {"type":"title","text":"Workshop on Red Hat Basics"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Red Hat System Administration is designed for professionals who are new to Linux. This course will actively engage students in task focused activities, lab-based knowledge checks, and facilitative discussions to ensure maximum skill transfer and retention. In addition GUI-based Environment will be featured to build on the student's existing technical knowledge, while command line concepts will be introduced to provide a foundation for students planning to become full time Linux system administrator."},
+        {"type":"simple","text":"In this workshop, the following aspects from red hat will be discussed,"},
+        {"type":"sublist","text":[
+            "Introduction to Linux",
+            "Security ( Files and Directories )",
+            "Partitioning Hard Disk",
+            "Mounting and Un-mounting",
+            "Logical Volume Manager"
+        ]},
+        {"type":"simple","text":"and combining with hands on experience in Red Hat Linux environment."},
+        {"type":"subtitle","text":"DATE & TIME"},
+        {"type":"list","text":[
+            "<b>8:45 AM</b> - Students should assemble at GRD Lab of CSE Department.",
+            "<b>9:00 AM – 10:00 AM</b> - A lecture session regarding basic Red Hat system.",
+            "<b>10:00 AM – 12:00 PM</b> - Training session will be held at GRD Lab.",
+            "<b>12:00 PM – 1:30 PM</b> - Lunch",
+            "<b>1:30 PM – 4:00 PM</b> - Training session and hands on experience.",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 800/- student"},
+        {"type":"simple","text":"Since the market price of this basic RHCSA is Rs.7500/-"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"GRD LAB CSE"}
+    ],
+        "contact":[
+        {"name":"Gowreesh. R","phone":"(+91) 90922 44201"},
+        {"name":"Tejaswini Sivakumar","phone":" (+91) 95242 55955"}
+    ]
+}

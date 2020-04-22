@@ -1,0 +1,37 @@
+{
+    "root":[
+        {"type":"title","text":"CODE-O-FIESTA"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<BR><b>“An error doesn’t become a mistake until you refuse to correct it”</b><BR>An event to test your logical, mathematical and basic programming skills. With the problems being of various difficulty levels, code-o-fiesta  provides a perfect platform  for programming enthusiasts, to code at each step to complete the ultimate task."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Only a team of two is will be permitted.",
+            "The participants should be able to complete the questions within the given time. ",
+            "No extra time will be provided.",
+            "Mobile phones and any other internet references are strictly prohibited.",
+            "Judges decision is final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"CC LAB CSE"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1: Codoparadox"},
+        {"type":"simple","text":"In this round, the participants will be provided with a set of questions based on programming languages and clues which lead them to arrive at a scrambled word that is to be unscrambled to find the hidden popular names.<BR><BR>Timing: 9.00am to 12.00pm"},
+        {"type":"subsubtitle","text":"ROUND-2: Code hunt"},
+        {"type":"simple","text":"In this round you will be given with a set of indirect questions. The output of every question will guide you to the next question. The previous question will be the clue to the present question.Interesting right! You should solve all the 6 questions in order to reach the treasure within the specified time. Based on the accuracy, output, and the logic used you will be selected for next round.<BR><BR>Timing:1.30pm to 2.30pm"},
+        {"type":"subsubtitle","text":"ROUND-3: Logic Does the Magic"},
+        {"type":"simple","text":"Each team will be given a set of inputs and correspondingoutputs  along with  4 clues [which will be initially hidden from them] Also the teams will start with a total of 20 points. The aim of each team is to deduce the logic from the given test cases and code it in any language that they prefer. They may use the four clues given to arrive at the code.But for each clue they use 5 points will be reduced from the given 20 points. The team which completes the round with highest point is declared the winner.<BR><BR>Timing: 3.00pm to 4.00pm"}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"LEENA SOWMIYA.C","phone":"(+91) 82208 41001"},
+        {"name":"KEERTHIVASAN.M","phone":"(+91) 80564 09944"}
+    ]
+}

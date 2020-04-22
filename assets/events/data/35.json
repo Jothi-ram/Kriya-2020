@@ -1,0 +1,37 @@
+{
+    "root":[
+        {"type":"title","text":"2 INFINITY AND BEYOND"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"<BR><B>“Unshroud your creative mind!”<BR>“Why math cannot be fun?”</B><BR>Here is the platform to unleash your mathematical skills!!!Test your mathematical skills, decrypt the clues and accomplish the given tasks which will take you through the path of curiosity. Compete with your fellow mates to prove yourself by cracking the problems and take-home exciting prizes!!!"},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Team of two is permitted.",
+            "Mobile phones and other electronic gadgets should not be used.",
+            "Judge’s decision will be final.",
+            "The participants for the final round will be selected on the basis of their performance in both the first and second round."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 302, 303"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1 MATH QUIZ"},
+        {"type":"simple","text":"This quiz covers a range of topics fromelementary math applications to miscellaneous questions. This will be a written round and will make you unleash your mathematical skills. The round will last around 30-45 min."},
+        {"type":"subsubtitle","text":"ROUND-2 DUMB CHARADES"},
+        {"type":"simple","text":"One of the participants will be provided with a code from which he/she has to find the word, enact it and the other participant has to find it. The word which is to be found will be a simple maths related term or personality"},
+        {"type":"subsubtitle","text":"ROUND-3 BLACKLIST 10"},
+        {"type":"simple","text":"<b>“Face this, if you can”</b>"},
+        {"type":"simple","text":"Participants will be given 10 tasks and they have to complete it within the mentioned time. Face this, if you can. Solve the clue to find a place where the task will be mentioned."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Kiruba T","phone":"(+91) 99945 06577"},
+        {"name":"Aarthi S R","phone":"(+91) 98424 07765"}
+    ]
+}

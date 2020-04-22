@@ -1,0 +1,42 @@
+{
+    "root":[
+        {"type":"title","text":"AUTO QUIZ"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Are you an Automobile aficionado?<BR>This is your time to unleash the Eureka moment.<BR>Tailoring an elegant wagon demands Modelling, Manufacturing and Marketing in a most efficient way. Auto-quiz assesses knowledge about the Auto-history, Cutting Edge technology, Motor sports and Car makers. Event comprises of General quiz, Virtual quiz, Connections. The first two rounds will make you recollect the facts and figures in automobile. And the final round demands you to think out of the box to arrive at creative answers."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Team may consist of maximum of two students.",
+            "The cumulative evaluation of the first two rounds is considered for the elimination process. Selected participants are allowed to participate in the final round.",
+            "Mobile phones are not allowed inside the test hall.",
+            "Judge’s decision will be final. "
+        ]},
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event consist of 3 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1 GENERAL QUIZ"},
+        {"type":"simple","text":"This is a perfect platform to unleash the Automotive knowledge in an individual. It is a source to judge the percentage of an auto-expert in you. A most awaited quiz competition on covering the below topics"},
+        {"type":"sublist","text":[
+            "History of Automobile",
+            "Motorsport",
+            "Current Trends",
+            "Basics of automobile "
+        ]},
+        {"type":"subsubtitle","text":"ROUND-2 VIRTUAL QUIZ"},
+        {"type":"simple","text":"Various automobile brands play a major role in bringing virtual nature to this round. Under this round, team has to answer to the relative questions based on the pictures displayed. <BR>NOTE: The cumulative evaluation of the above rounds is considered for the elimination process. Selected participants are allowed to participate in the final round. "},
+        {"type":"subsubtitle","text":"ROUND-3 CONNECTIONS"},
+        {"type":"simple","text":"A well-known and much interesting event which usually don’t require a special introduction. Visual tracking of a given puzzle makes you champion in this round."},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 22"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 506,507"} 
+       
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"2"}
+    ],
+    "contact":[
+        {"name":"Vijay Prabu S ","phone":"(+91) 97108 39633"},
+        {"name":"Vignesh P","phone":"(+91) 94899 79230"}
+    ]
+}

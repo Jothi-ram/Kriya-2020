@@ -1,0 +1,149 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+		* {
+			margin: 0;
+			padding: 0;
+			font-family: 'Roboto', sans-serif;
+		}
+		body {
+			background: #4CAF50;
+		}
+		.social-share-icon{
+			position: absolute;
+			top: 50%;
+			left: 40%;
+			-webkit-filter: url(#goo);
+			filter: url(#goo);
+		}
+		.social-share-icon a.a{
+			z-index: 123;
+		}
+		.social-share-icon a{
+			text-decoration: none;
+			color: #212121;
+			height: 45px;
+			width: 45px;
+			border-radius: 100px;
+			display: inline-block;
+			background-color: #FFF;
+			line-height: 45px;
+			text-align: center;
+			box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2)
+		}
+		.social-share-icon a:hover{
+			background-color: #DDD;
+		}
+		.social-share-icon a i{
+			line-height: inherit;
+		}
+		
+/* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    .social-share-icon{
+       margin-left: -38%;
+		padding-top: 70%;
+		overflow: hidden;
+        
+    }
+  }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+    .social-share-icon{
+      margin-left: -38%;
+	 padding-top: 58%;
+	 overflow: hidden;
+	
+        }
+  }
+  
+  /*Iphone 6/7/8*/
+
+  @media only screen 
+	and (min-device-width : 375px) 
+	and (max-device-width : 667px) {
+	.social-share-icon{
+		margin-left: -38%;
+		padding-top: 72%;
+	}
+}
+
+/*Pixel 2xl*/
+@media only screen and (min-width: 411px) and (max-width: 767px) {
+
+	.social-share-icon{
+		margin-left: -38%;
+		padding-top: 79%;
+	}
+}	
+
+
+  /* Desktop Styles */
+  @media only screen and (min-width: 961px) {
+    .social-share-icon{
+	  margin-left: -38%;
+	  padding-top: 20%;
+	  overflow: hidden;
+      
+    }
+  } 
+   /* Ipad */
+  @media only screen and (min-device-width: 1024px) and (max-device-height: 1366px) and (-webkit-min-device-pixel-ratio: 2)  and (orientation: portrait) {
+	.social-share-icon{
+		margin-left: -38%;
+		padding-top: 58%;
+		overflow: hidden;
+		
+	  }
+}
+	/*Pixel*/
+	@media only screen and (min-width: 411px) and (max-width: 767px) { 
+		.social-share-icon{
+			margin-left: -38%;
+			padding-top: 70%;
+		}
+	}
+
+/*Iphone X*/
+
+@media only screen 
+    and (device-width : 375px) 
+    and (device-height : 812px) 
+    and (-webkit-device-pixel-ratio : 3) {
+		.social-share-icon{
+			margin-left: -38%;
+			padding-top: 88%;
+			overflow: hidden;
+			
+		  }
+	 }
+
+
+  /* Mobile Styles */
+@media only screen and (max-width: 400px) {
+    .photo{
+	  width:100%;
+	  margin-left:-2%;
+	  overflow:scroll;
+    }
+  }
+  
+  /* Tablet Styles */
+  @media only screen and (min-width: 401px) and (max-width: 960px) {
+    .photo{
+	  width: 100%;
+	  margin-left:-2%;
+	  overflow:scroll;
+	
+        }
+  }
+  
+  /* Desktop Styles */
+  @media only screen and (min-width: 961px) {
+    .photo{
+	  width: 100%;
+	  overflow:scroll;
+    }
+  } 
+
+
+  

@@ -1,0 +1,29 @@
+{
+    "root":[
+        {"type":"title","text":"SHUTTERBUG"},
+        {"type":"subtitle","text":"TOPICS"},
+        {"type":"list","text":[
+            "1. Reflections",
+            "2. Patterns",
+            "3. Optical Illusions",
+            "4. Perspectives"
+        ]},
+        {"type":"subtitle","text":"INSTRUCTIONS"},
+        {"type":"list","text":[
+            "1. The participant must have a valid Kriya ID registered from www.psgkriya.in",
+            "2. The photos must strictly adhere to the topics mentioned.",
+            "3. A maximum of one photo can be submitted.",
+            "4. The photos along with the Kriya ID, name of the participant, name of the college along with a suitable caption should be sent to web@psgkriya.in",
+            "5. The photo must be of HD quality.",
+            "6. The photo must taken only by the participant. It must not be downloaded from anywhere else or must be plagiarized.",
+            "7. Last date for submission is 19.02.2020",
+            "8. The winner of the event will be announced on 20.02.2020",
+            "9. The participant must have paid the Kriya General Registration Fee to be eligible to get the prize and certificate",
+            "10. Exciting prizes are awaiting!"
+        ]}
+    
+    ],
+    "contact":[
+        {"name":"Nagulan","phone":"(+91) 96268 86622"}
+    ]
+}

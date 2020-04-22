@@ -1,0 +1,44 @@
+
+{
+    "root":[
+        {"type":"title","text":"ASTROPHOTOGRAPHY"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"What you see there? There… Behind you, Right, Left and Infront of you. What do you see? Do you get it? Feel it? Seeing is not believing… Do you believe? We all time travel by travelling backwards. You wonder how? Through photos, we are able to see our past life by travelling backwards in time. Light plays the important role here. It is the mystery which made Einstein to think crazy that bring back the relativity again. Do you want to time travel? Let us travel in time around the space. A wonderful opportunity for photography lovers! Come and learn to see the reality through the illusion of space. Not only this! And there is a big surprise… Don’t miss it."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"simple","text":"Astrophotography workshop teaches you the skills of capturing and processing the celestial bodies (Nebulae, Star clusters, Constellations, etc.; depending upon the weather conditions and clouds during the workshop) in the night sky with the help of a normal Telescope, DSLRs and image processing Software."},
+        {"type":"simple","text":"Each participant may bring a Laptop (for the software) and a DSLR (optional) so that they can Shoot their own Astro-photographs for the post workshop event. In the post workshop event, the participants will be asked to capture Astro-photograph and those photographs will be uploaded to our Instagram page (astroclubpsg). Best photos with more likes will be rewarded."},
+        {"type":"list","text":[
+            "<b>2:00 PM – 5:00 PM</b> - Booting up the Essentials: Software for Stacking and Post processing will be provided for the participants. A walkthrough of the software will be given in detail. A Brief.",
+            "<b>5:00 PM – 5:15 PM</b> - Tea Break",
+            "<b>5:15 PM – 8:00 PM</b> - Shooting the Celestials: Participants will be taken to the open night sky where the celestial bodies will be captured. Participants will be taught to capture the sky with the aid of the 10” Dobsonian Telescope.",
+            "<b>8:00 PM – 8:30 PM</b> - Stacking up the Sky: Participants will be taught to do post-process and stack the photographs. <BR><BR>",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 300/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"2-PM to 8-PM"},
+        {"type":"simple","text":"G-401"}
+    ],
+        "contact":[
+        {"name":"KAVICHANDIRAKANTH","phone":"(+91) 87549 32916"},
+        {"name":"SAI ARAVIND","phone":" (+91) 97914 61141"}
+    ]
+}

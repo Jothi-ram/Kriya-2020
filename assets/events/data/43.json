@@ -1,0 +1,36 @@
+{
+    "root":[
+        {"type":"title","text":"YOUTHZEST"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"Are you an out of box thinker? Here is an amazing opportunity to showcase your ideas on a unique and massive platform in the form of well-integrated and intriguing presentation. We help in finding the innovative minds among the youth and give them a definite direction."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Participants can either participate individually or as a team.",
+            "Time constraint will be there for every level depending upon the topic or problem statement given.",
+            "Changing of given topics or problem statement will not be allowed.",
+            "Usage of internet is prohibited.",
+            "Judge’s decision will be the final one.",
+            "Team/Participant violating the rules will be disqualified immediately."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G 305"} ,
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"simple","text":"This event comprises of 2 rounds."},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"It is a descriptive round in which the participants are required to come up with interesting solutions. The ideas need to be presented in sheets with diagrams (if necessary). The ideas should be backed with research and case studies. Time limit of 25 minutes will be given."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"The participants whose ideas are shortlisted from the first round will be allowed to present in front of jury. A time of 10 minutes will be given for presentation followed by 3 minutes of questioning. They will be asked all sort of questions to ensure that their idea is indeed sound and feasible. They can use Powerpoint to explain their ideas but not necessary."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"5"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"NANTHAKUMAR","phone":"(+91) 80980 56921"},
+        {"name":"SAINANDAN","phone":"(+91) 81848 77777"}
+    ]
+}

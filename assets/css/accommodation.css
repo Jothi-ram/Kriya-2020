@@ -1,0 +1,44 @@
+.filter-selector h4{
+    font-size: 14px!important;
+    display: inline-block;
+    color: white;
+    transition: 0.5s;
+    padding: 10px;
+    font-family: ralewayB!important;
+}    
+.filter-selector h4:hover{
+    cursor: pointer;
+}
+.filter-selector .active{
+    color: #fc9918;
+    border-bottom: 2px solid #fc9918;
+    outline-offset: 10px;
+}
+.filter-selector{
+    display: inline-block;
+}
+
+
+.filter-selector
+{
+    border-bottom: 1px solid white;
+}
+/* .grid{
+    margin:30px;
+} */
+
+[pageTitle]{
+    margin-top:30px;
+    color: white;
+    font-family: Cinzel;
+    text-align: center;
+    letter-spacing: 1px;
+    font-weight: 400; 
+}
+@media only screen and (max-width : 767px){
+    [pageTitle]{
+        font-family: Cinzel;
+        font-weight: 500;
+        margin-top:100px;
+    }
+}

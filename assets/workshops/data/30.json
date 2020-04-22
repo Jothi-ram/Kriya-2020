@@ -1,0 +1,47 @@
+
+{
+    "root":[
+        {"type":"title","text":"INTERNET OF THINGS (IOT) FOR MECHANICAL APPLICATIONS"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"The workshop focuses on the basic conceptual idea behind the characteristics, challenges and network configurations in IOT along with Data Collection, Data Processing and Data Analytics followed by Cloud Computing and Big Data. It also focuses on the MQTT using embedded systems. And the final part of the workshop will be the hands-on training with embedded systems, which will provide participants a deep practical knowledge about IOT.<BR>NOTE: Participants should bring separate laptop, android mobiles for hotspot requirement."},
+        {"type":"subtitle","text":"SESSION WISE SCHEDULE"},
+        {"type":"list","text":[
+            "<b>8:55 AM </b> - Students must assemble at K-Block Seminar Hall.",
+            "<b>9:00 AM – 10:30 AM</b> - A detailed introduction to the basic concepts of IOT.",
+            "<b>10:30 AM – 10:45 PM</b> - Break Time",
+            "<b>10:45 AM – 12:15 PM</b> - A brief description about the Data Collection.",
+            "<b>12:15 PM – 01:15 PM</b> - Lunch Time",
+            "<b>01:15 PM – 02:15 PM</b> - An ideology about the MQTT and the Data Processing management followed by the Data Analytics Techniques.",
+            "<b>02:15 AM – 02:30 PM</b> - Break Time",
+            "<b>02:30 PM – 4:00 PM</b> - An interactive hands-on training with IOT Kits.",
+            "<b>**The above mentioned schedule can be changed based on availability of time**</b>"
+        ]},
+        {"type":"subtitle","text":"RULES"},
+        {"type":"subsubtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "“First come First serve”.",
+            "In case of on spot registration (subjected to availability), the students are requested to bring the exact sum of the mentioned amount for general registration along with the respective workshop fee.",
+            "Participants are requested to carry the hard copy of the workshop confirmation receipt.",
+            "Participants must have a valid ID card of their respective educational institutions.",
+            "Participants have to register individually."
+        ]},
+        {"type":"subsubtitle","text":"Under any circumstances, the fee will not be refunded."},
+        {"type":"subtitle","text":"FEES"},   
+        {"type":"simple","text":"INR 500/ student"},
+        {"type":"simple","text":"Fee is exclusive of food and accommodation"},
+        {"type":"simple","text":"In addition to the workshop fee there will be a mandatory KRIYA registration fee of,"},
+        {"type":"sublist","text":[
+            " Rs.150 for PSG Tech Students",
+            " Rs.250 for other College Students."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 21"},
+        {"type":"simple","text":"9-AM to 4-PM"},
+        {"type":"simple","text":"G-307"}
+    ],
+        "contact":[
+        {"name":"MUKKESH KUMAR K B","phone":"(+91) 87781 06722"},
+        {"name":"SHRI HARI PRASAAD B","phone":" (+91) 86675 96041"}
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "root":[
+        {"type":"title","text":"EnggNerd"},
+        {"type":"subtitle","text":"DESCRIPTION"},
+        {"type":"simple","text":"A technical event which analyses the technical and analytical skills of the students in Electronics domain. This comprises of three rounds. This event will judge the teams based on their time managing skills, critical thinking, practicality, tangibility and technical understanding."},
+        {"type":"subtitle","text":"EVENT RULES"},
+        {"type":"list","text":[
+            "Usage of mobile phones is strictly prohibited.",
+            "Usage of any materials or books is not allowed.",
+            "Team with more than 2 participants is not encouraged.",
+            "Teams must complete the questions within the given time.",
+            "No extra time will be given.",
+            "Decision made by the judges will be final."
+        ]},
+        
+        {"type":"subtitle","text":"DATE & TIME & VENUE"},
+        {"type":"simple","text":"FEB 23"},
+        {"type":"simple","text":"9-AM to 2-PM"},
+        {"type":"simple","text":"IC LAB & CIRCUITES AND DEVICES LAB"},
+
+        {"type":"subtitle","text":"ROUNDWISE DESCRIPTION OF THE EVENT"},
+        {"type":"subsubtitle","text":"ROUND-1"},
+        {"type":"simple","text":"Basic question from LIC, Analog electronics, Digital electronics, Network theory and other basic questions related to ECE."},
+        {"type":"subsubtitle","text":"ROUND-2"},
+        {"type":"simple","text":"Technical connection and JAM.The team members have to find out the term(anything related to ECE)and then they will be given a minute to discuss about the topic andthey have to speak for a minute.If they stammer, other teams can take up the chance and they will be given bonus marks."},
+        {"type":"subsubtitle","text":"ROUND-3"},
+        {"type":"simple","text":"This round resembles the concept of an escape room. The teams will be given a question, the answer for which will be the password for a laptop. The next question will be in a word file in the laptop, the answer for which has to be told to a volunteer who will hand over a key. This key opens a box which contains a pen drive and the next question inside it. The pen drive has a password protected PDF, the password will be the answer for the question inside the box. The PDF will have the next question, the answer for it will open a smartphone. It is a time based event. The team which takes lesser time to crack the problem, is the winner. In case the team couldn’t find the answer for any question, the answer will be disclosed with a time penalty."}
+    ],
+    "teamSize":[
+        {"type":"Maximum","val":"2"},
+        {"type":"Minimum","val":"1"}
+    ],
+    "contact":[
+        {"name":"ELATCHIYA R V ","phone":"(+91) 73394 14725"},
+        {"name":"SAMUEL PRIYADARSHAN S","phone":"(+91) 96004 46399"}
+    ]
+}

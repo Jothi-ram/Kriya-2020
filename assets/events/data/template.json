@@ -1,0 +1,19 @@
+{
+    "root":[
+        {"type":"title","text":""},
+        {"type":"subtitle","text":""},
+        {"type":"simple","text":""},
+        {"type":"subtitle","text":""},
+        {"type":"list","text":[
+            
+        ]},
+    ],
+    "teamSize":[
+        {"type":"Minimum","val":"3"},
+        {"type":"Maximum","val":"5"}
+    ],
+    "contact":[
+        {"name":"","phone":"9442194526"},
+        {"name":"","phone":"9095048777"}
+    ]
+}
